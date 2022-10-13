@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<River id="Yangtze"
+xmlns="http://www.geodesy.org/river">
+<length>6300 kilometers</length>
+<startingLocation>western China's Qinghai-Tibet Plateau</startingLocation>
+<endingLocation>East China Sea</endingLocation>
+<obstacle>
+<Dam id="ThreeGorges” xmlns="http://www.geodesy.org/dam">
+<name>The Three Gorges Dam</name>
+<width>1.5 miles</width>
+<height>610 feet</height>
+<cost>$30 billion</cost>
+</Dam>
+</obstacle>
+</River>

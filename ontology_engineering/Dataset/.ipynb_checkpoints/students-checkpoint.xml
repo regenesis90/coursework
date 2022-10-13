@@ -1,0 +1,40 @@
+<Student ID="48F8">
+  <Name>James</Name>
+  <Lab ID="#_D6EA"/>
+</Student>
+<Student ID="48F5">
+  <Name>Adel</Name>
+  <Lab ID="#_D6EA"/>
+</Student>
+<Student ID="48B9">
+  <Name>Albert</Name>
+  <Lab ID="#_M001"/>
+</Student>
+<Lab_Physics ID="_D6EA">
+  <Name>Carbone_14</Name>
+  <Location resource="#_1000"/>
+</Lab_Physics>
+<Lab_Physics ID="_A6EC">
+  <Name>Magnetism</Name>
+  <Location resource="#_2000"/>
+</Lab_Physics>
+<Lab_Biology ID="_M001">
+  <Name>Molecule</Name>
+  <Location resource="#_1000"/>
+</Lab_Biology>
+<Location ID="_1000">
+  <Name>City_1</Name>
+</Location>
+<Location ID="_2000">
+  <Name>City_2</Name>
+</Location>
+<Position ID="_P1A000">
+  <Location resource="#_1000"/>
+  <Lat>169</Lat>
+  <Lon>246</Lon>
+</Position>
+<Position ID="_P1B000">
+  <Location resource="#_2000"/>
+  <Lat>250</Lat>
+  <Lon>400</Lon>
+</Position>

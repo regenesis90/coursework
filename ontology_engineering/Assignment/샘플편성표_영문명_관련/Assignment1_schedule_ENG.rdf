@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns="http://www.example.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.example.org/Report">
+    <Category_sub>
+      <rdf:Description rdf:about="http://www.example.org/News">
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/KBS_News_Plaza_1">
+          <item>
+              <pro rdf:ID="KBS_220301_KBS_News_Plaza_1">
+                <Channel rdf:resource="http://www.example.org/KBS"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>06:00:00</Start_at>
+                <End_at>06:57:48</End_at>
+              </pro>
+          </item>
+          <item>
+              <pro rdf:ID="MBC_220302_KBS_News_Plaza_1">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_02"/>
+                <Start_at>06:00:00</Start_at>
+                <End_at>06:57:30</End_at>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/KBS_News_Plaza_2">
+          <item>
+              <pro rdf:ID="KBS_220301_KBS_News_Plaza_2">
+                <Channel rdf:resource="http://www.example.org/KBS"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>06:57:49</Start_at>
+                <End_at>07:48:01</End_at>
+              </pro>
+          </item>
+          <item>
+              <pro rdf:ID="MBC_220302_KBS_News_Plaza_2">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_02"/>
+                <Start_at>06:57:31</Start_at>
+                <End_at>07:48:00</End_at>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/COVID_19_Newsroom">
+          <item>
+              <pro rdf:ID="KBS_220302_COVID_19_Newsroom">
+                <Channel rdf:resource="http://www.example.org/KBS"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_02"/>
+                <Start_at>09:29:33</Start_at>
+                <End_at>09:57:47</End_at>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+      </rdf:Description>
+    </Category_sub>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/Entertainment">
+    <Category_sub>
+      <rdf:Description rdf:about="http://www.example.org/Talk_Show">
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/Morning_Yard">
+          <item>
+              <pro rdf:ID="KBS_220302_Morning_Yard">
+                <Channel rdf:resource="http://www.example.org/KBS"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_02"/>
+                <Start_at>08:24:26</Start_at>
+                <End_at>09:27:43</End_at>
+              </pro>
+          </item>
+          <item>
+              <pro rdf:ID="MBC_220301_Morning_Yard_Rebroadcast">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>03:46:45</Start_at>
+                <End_at>04:50:00</End_at>
+                <Rebroadcast rdf:resource="http://www.example.org/Rebroadcast"/>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+      </rdf:Description>
+    </Category_sub>
+    <Category_sub>
+      <rdf:Description rdf:about="http://www.example.org/Performing_Arts">
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/KBS_Broadcast_Seat_Valentines_Concert">
+          <item>
+              <pro rdf:ID="MBC_220302_KBS_Broadcast_Seat_Valentines_Concert">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_02"/>
+                <Start_at>25:00:48</Start_at>
+                <End_at>25:59:59</End_at>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+      </rdf:Description>
+    </Category_sub>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.example.org/Sample_Schedule">
+    <Channel>
+      <rdf:Description rdf:about="http://www.example.org/KBS">
+        <Region rdf:resource="http://www.example.org/Seoul"/>
+      </rdf:Description>
+    </Channel>
+    <Channel>
+      <rdf:Description rdf:about="http://www.example.org/MBC">
+        <Region rdf:resource="http://www.example.org/Gyeonggi_Incheon"/>
+      </rdf:Description>
+    </Channel>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.example.org/Option">
+  <Special rdf:resource="http://www.example.org/Special"/>
+  <Rebroadcast rdf:resource="http://www.example.org/Rebroadcast"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.example.org/General_Information">
+    <Category>
+      <rdf:Description rdf:about="http://www.example.org/Information">
+        <Category_sub rdf:resource="http://www.example.org/Living_Information"/>
+        <Category_sub rdf:resource="http://www.example.org/Documentary"/>
+        <Category_sub rdf:resource="http://www.example.org/General_Information"/>
+      </rdf:Description>
+    </Category>
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/Good_Morning_Korea_Live">
+          <item>
+              <pro rdf:ID="MBC_220301_Good_Morning_Korea_Live">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>02:50:21</Start_at>
+                <End_at>03:42:27</End_at>
+                <Special rdf:resource="http://www.example.org/Special"/>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.example.org/Living_Information">
+    <Category rdf:resource="http://www.example.org/Information"/>
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/Hometown">
+          <item>
+              <pro rdf:ID="KBS_220301_Hometown_Special">
+                <Channel rdf:resource="http://www.example.org/KBS"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>05:09:41</Start_at>
+                <End_at>05:58:20</End_at>
+                <Special rdf:resource="http://www.example.org/Special"/>
+              </pro>
+          </item>
+          <item>
+              <pro rdf:ID="MBC_220301_special">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>05:09:41</Start_at>
+                <End_at>05:58:20</End_at>
+             </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/Discovery_of_Life">
+          <item>
+              <pro rdf:ID="MBC_220301_Discovery_of_Life">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>02:00:00</Start_at>
+                <End_at>02:33:41</End_at>
+              </pro>
+          </item>
+          <item>
+              <pro rdf:ID="KBS_220301_Discovery_of_Life_Special">
+                <Channel rdf:resource="http://www.example.org/KBS"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>05:00:00</Start_at>
+                <End_at>05:08:05</End_at>
+                <Special rdf:resource="http://www.example.org/Special"/>
+              </pro>
+          </item>
+          <item>
+              <pro rdf:ID="MBC_220301_Discovery_of_Life_Special">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>05:00:00</Start_at>
+                <End_at>05:09:09</End_at>
+                <Special rdf:resource="http://www.example.org/Special"/>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/Documentary">
+    <Category rdf:resource="http://www.example.org/Information"/>
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/Human_Theater">
+          <item>
+              <pro rdf:ID="KBS_220302_Human_Theater">
+                <Channel rdf:resource="http://www.example.org/KBS"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_02"/>
+                <Start_at>07:49:37</Start_at>
+                <End_at>08:22:28</End_at>
+              </pro>
+          </item>
+          <item>
+              <pro rdf:ID="MBC_220302_Human_Theater">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_02"/>
+                <Start_at>07:49:33</Start_at>
+                <End_at>08:22:07</End_at>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+    <Program>
+      <rdf:Description rdf:about="http://www.example.org/Wild_Exploration_Project_Wild_Map_Plus">
+          <item>
+              <pro rdf:ID="MBC_220301_Wild_Exploration_Project_Wild_Map_Plus_Rebroadcast">
+                <Channel rdf:resource="http://www.example.org/MBC"/>
+                <Date rdf:resource="http://www.example.org/Date_2022_03_01"/>
+                <Start_at>02:38:12</Start_at>
+                <End_at>02:47:14</End_at>
+                <Rebroadcast rdf:resource="http://www.example.org/Rebroadcast"/>
+              </pro>
+          </item>
+      </rdf:Description>
+    </Program>
+  </rdf:Description>
+</rdf:RDF>

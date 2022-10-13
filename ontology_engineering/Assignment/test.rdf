@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://example.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/보도">
+    <ns1:중분류>
+      <rdf:Description rdf:about="http://example.org/뉴스">
+        <ns1:프로그램 rdf:resource="http://example.org/KBS뉴스광장1부"/>
+        <ns1:프로그램 rdf:resource="http://example.org/KBS뉴스광장2부"/>
+        <ns1:프로그램 rdf:resource="http://example.org/코로나19통합뉴스룸"/>
+      </rdf:Description>
+    </ns1:중분류>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/오락">
+    <ns1:중분류>
+      <rdf:Description rdf:about="http://example.org/토크쇼">
+        <ns1:프로그램 rdf:resource="http://example.org/아침마당"/>
+        <ns1:프로그램 rdf:resource="http://example.org/아침마당_재"/>
+      </rdf:Description>
+    </ns1:중분류>
+    <ns1:중분류>
+      <rdf:Description rdf:about="http://example.org/공연예술">
+        <ns1:프로그램 rdf:resource="http://example.org/KBS중계석_발렌타인콘서트"/>
+      </rdf:Description>
+    </ns1:중분류>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/샘플편성표">
+    <ns1:채널>
+      <rdf:Description rdf:about="http://example.org/KBS">
+        <ns1:지역 rdf:resource="http://example.org/서울"/>
+      </rdf:Description>
+    </ns1:채널>
+    <ns1:채널>
+      <rdf:Description rdf:about="http://example.org/MBC">
+        <ns1:지역 rdf:resource="http://example.org/경기인천"/>
+      </rdf:Description>
+    </ns1:채널>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/정보종합">
+    <ns1:대분류>
+      <rdf:Description rdf:about="http://example.org/정보">
+        <ns1:중분류 rdf:resource="http://example.org/생활정보"/>
+        <ns1:중분류 rdf:resource="http://example.org/다큐멘터리"/>
+        <ns1:중분류 rdf:resource="http://example.org/정보종합"/>
+      </rdf:Description>
+    </ns1:대분류>
+    <ns1:프로그램 rdf:resource="http://example.org/굿모닝대한민국라이브스페셜"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/생활정보">
+    <ns1:대분류 rdf:resource="http://example.org/정보"/>
+    <ns1:프로그램>
+      <rdf:Description rdf:about="http://example.org/생활의발견스페셜">
+        <ns1:일자 rdf:resource="http://example.org/Date_2022_03_01"/>
+        <ns1:시작시간>05:00:00</ns1:시작시간>
+        <ns1:종료시간>05:08:05</ns1:종료시간>
+      </rdf:Description>
+    </ns1:프로그램>
+    <ns1:프로그램>
+      <rdf:Description rdf:about="http://example.org/내고향스페셜">
+        <ns1:일자 rdf:resource="http://example.org/Date_2022_03_01"/>
+        <ns1:시작시간>05:09:41</ns1:시작시간>
+        <ns1:종료시간>05:58:20</ns1:종료시간>
+      </rdf:Description>
+    </ns1:프로그램>
+    <ns1:프로그램 rdf:resource="http://example.org/생활의발견"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/다큐멘터리">
+    <ns1:대분류 rdf:resource="http://example.org/정보"/>
+    <ns1:프로그램 rdf:resource="http://example.org/인간극장"/>
+    <ns1:프로그램 rdf:resource="http://example.org/야생탐사프로젝트와일드맵플러스_재"/>
+  </rdf:Description>
+</rdf:RDF>

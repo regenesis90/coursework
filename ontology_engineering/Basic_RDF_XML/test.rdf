@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://example.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/china">
+    <ns1:has_border_with>
+      <rdf:Description rdf:about="http://example.org/mongolia">
+        <ns1:located_in rdf:resource="http://example.org/asia"/>
+      </rdf:Description>
+    </ns1:has_border_with>
+    <ns1:located_in rdf:resource="http://example.org/asia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/germany">
+    <ns1:has_border_with>
+      <rdf:Description rdf:about="http://example.org/france">
+        <ns1:located_in rdf:resource="http://example.org/europa"/>
+      </rdf:Description>
+    </ns1:has_border_with>
+    <ns1:located_in rdf:resource="http://example.org/europa"/>
+  </rdf:Description>
+</rdf:RDF>

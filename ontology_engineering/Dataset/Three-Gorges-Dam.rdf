@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<River rdf:ID="Yangtze"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns="http://www.geodesy.org/river#"
+xml:base="http://www.china.org/geography/rivers">
+<length>6300 kilometers</length>
+<startingLocation>western China's Qinghai-Tibet Plateau</startingLocation>
+<endingLocation>East China Sea</endingLocation>
+<obstacle rdf:resource="http://www.china.org/geography/rivers#ThreeGorges"/>
+</River>

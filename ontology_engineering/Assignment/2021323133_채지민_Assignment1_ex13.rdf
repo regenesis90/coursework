@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xml:base="http://www.example.org">
+
+<Resume rdf:ID="Resume" xmlns="http://www.resume.org#">
+
+ <Personal_Info>
+   <Person rdf:ID="Person" xmlns="http://www.person.org#">
+     <name>John Smith</name>
+     <phone>555-1212</phone>
+     <email>abc@def.com</email>
+   </Person>
+ </Personal_Info>
+
+ <Experience>
+   <Job rdf:ID="Researcher">
+     <startDate>1995-01-01</startDate>
+     <endDate>1999-01-01</endDate>
+     <title>Researcher</title>
+     <employer>Some Corp</employer>
+     <employHomepage>http://www.company.org</employHomepage>
+     <description>Cool stuff</description>
+   </Job>
+ </Experience>
+
+ <Skills>
+   <Programming rdf:ID="Oracle">
+     <dc:title>Oracle</dc:title>
+     <dc:year>13</dc:year>
+   </Programming>
+ </Skills>
+
+ <Skills>
+   <Programming rdf:ID="Java">
+     <dc:title>Java</dc:title>
+     <dc:year>3</dc:year>
+   </Programming>
+ </Skills>
+
+ <Education>
+   <Degree rdf:ID="degree">
+     <type>BS</type>
+     <school>RPI</school>
+     <year>1987</year>
+   </Degree>
+ </Education>
+
+</Resume>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns="http://www.publishing.org#">
+<Catalogue rdf:ID="BookCatalogue"
+xmlns:dc="http://pur1.org/metadata/dublin-core#"
+xml:base="http://www.bn.com">
+<item>
+<Book rdf:ID="_0-06-099325-2"
+xml:base="http://www.publishing.org/book">
+<dc:Title>Lateral Thinking</dc:Title>
+<dc:Creator>Edward de Bono</dc:Creator>
+<dc:Date>1973</dc:Date>
+<dc:Publisher>Harper &amp; Row</dc:Publisher>
+</Book>
+</item>
+<item>
+<Book rdf:ID="_0-440-34319-4"
+xml:base="http://www.publishing.org/book">
+<dc:Title>Illusions: The Adventures of a Reluctant Messiah</dc:Title>
+<dc:Creator>Richard Bach</dc:Creator>
+<dc:Date>1977</dc:Date>
+<dc:Publisher>Dell Publishing Co.</dc:Publisher>
+</Book>
+</item>
+</Catalogue>
+</rdf:RDF>

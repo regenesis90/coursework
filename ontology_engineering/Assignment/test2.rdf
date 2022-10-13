@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:bs="https://w3id.org/def/basicsemantics-owl#"
+  xmlns:ex="https://example.com/id/"
+>
+  <ex:Bridge rdf:about="https://example.com/id/Bridge_1">
+    <bs:hasPart rdf:resource="https://example.com/id/Deck_1"/>
+    <ex:height>
+      <rdf:Description rdf:nodeID="Nc054075634c74daaaff8f279bb26a7ea">
+        <rdf:value>50.0</rdf:value>
+        <bs:unit rdf:resource="http://qudt.org/2.1/vocab/unit/M"/>
+      </rdf:Description>
+    </ex:height>
+  </ex:Bridge>
+</rdf:RDF>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<River id="Yangtze” xmlns="http://www.geodesy.org/river">
+<length>6300 kilometers</length>
+<startingLocation>western China's Qinghai-Tibet Plateau</startingLocation>
+<endingLocation>East China Sea</endingLocation>
+</River>

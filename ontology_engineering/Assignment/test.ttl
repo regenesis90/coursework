@@ -1,0 +1,10 @@
+@prefix bs: <https://w3id.org/def/basicsemantics-owl#> .
+@prefix ex: <https://example.com/id/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix unit: <http://qudt.org/2.1/vocab/unit/> .
+
+ex:Bridge_1 a ex:Bridge ;
+    ex:height [ rdf:value "50.0" ;
+            bs:unit unit:M ] ;
+    bs:hasPart ex:Deck_1 .
+

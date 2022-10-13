@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:Starwars="http://example.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/Luke">
+    <Starwars:gender>men</Starwars:gender>
+    <Starwars:likes>
+      <rdf:Description rdf:about="http://example.org/">
+        <Starwars:father rdf:resource="http://example.org/Anakin"/>
+        <Starwars:gender>Men</Starwars:gender>
+        <Starwars:likes rdf:resource="http://example.org/R2-D2"/>
+        <Starwars:mother rdf:resource="http://example.org/Padme"/>
+      </rdf:Description>
+    </Starwars:likes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Leia">
+    <Starwars:bornIn>Unknown</Starwars:bornIn>
+    <Starwars:gender>women</Starwars:gender>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Han">
+    <Starwars:bornIn>Unknown</Starwars:bornIn>
+    <Starwars:gender>men</Starwars:gender>
+  </rdf:Description>
+</rdf:RDF>
