@@ -115,8 +115,8 @@ Iced White Chocolate Mocha with Soy Milk,Iced White Chocolate Mocha,Soy,No Whip,
 Iced White Chocolate Mocha with Soy Milk and Whip,Iced White Chocolate Mocha,Soy,Whip,320,14,9,0.2,35,140,41,1,38,7,15,2,25,8,75
 Iced White Chocolate Mocha with Coconut Milk,Iced White Chocolate Mocha,Coconut,No Whip,230,7,6,0,5,135,39,0,37,3,0,2,10,0,75
 Iced White Chocolate Mocha with Coconut Milk and Whip,Iced White Chocolate Mocha,Coconut,Whip,310,15,11,0.2,35,140,41,0,39,4,10,2,10,0,75
-Iced Black Tea,Iced Black Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20-25
-Iced Black Tea Lemonade,Iced Black Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20-25
+Iced Black Tea,Iced Black Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20
+Iced Black Tea Lemonade,Iced Black Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20
 Chai Tea Latte with Nonfat Milk,Chai Tea Latte,Nonfat,,160,0.2,0.1,0,5,80,34,0,32,6,10,0,20,2,70
 Chai Tea Latte with 2% Milk,Chai Tea Latte,2% Milk,,190,3.5,1.5,0.1,15,90,34,0,32,6,10,0,20,2,70
 Chai Tea Latte with Whole Milk,Chai Tea Latte,Whole,,200,6,3,0.2,15,80,34,0,32,6,8,0,20,2,70
@@ -127,14 +127,14 @@ Iced Chai Tea Latte with 2% Milk,Iced Chai Tea Latte,2% Milk,,180,3,1.5,0.1,10,8
 Iced Chai Tea Latte with Whole Milk,Iced Chai Tea Latte,Whole,,190,5,3,0.1,15,75,33,0,31,5,8,0,15,2,70
 Iced Chai Tea Latte with Soy Milk,Iced Chai Tea Latte,Soy,,160,2.5,0.3,0,0,70,30,1,27,5,6,0,20,8,70
 Iced Chai Tea Latte with Coconut Milk,Iced Chai Tea Latte,Coconut,,150,3.5,3,0,0,70,31,0,29,1,0,0,0,2,70
-Earl Grey Brewed Tea,Earl Grey Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40+
-Emperor's Clouds and Mist Brewed Tea,Emperor's Clouds and Mist Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
-English Breakfast Black Brewed Tea,English Breakfast Black Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40+
-English Breakfast Black Tea Latte with Nonfat Milk,English Breakfast Black Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40+
-English Breakfast Black Tea Latte with 2% Milk,English Breakfast Black Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40+
-English Breakfast Black Tea Latte with Whole Milk,English Breakfast Black Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40+
-English Breakfast Black Tea Latte with Soy Milk,English Breakfast Black Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40+
-English Breakfast Black Tea Latte with Coconut Milk,English Breakfast Black Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40+
+Earl Grey Brewed Tea,Earl Grey Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+Emperor's Clouds and Mist Brewed Tea,Emperor's Clouds and Mist Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+English Breakfast Black Brewed Tea,English Breakfast Black Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+English Breakfast Black Tea Latte with Nonfat Milk,English Breakfast Black Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40
+English Breakfast Black Tea Latte with 2% Milk,English Breakfast Black Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40
+English Breakfast Black Tea Latte with Whole Milk,English Breakfast Black Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40
+English Breakfast Black Tea Latte with Soy Milk,English Breakfast Black Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40
+English Breakfast Black Tea Latte with Coconut Milk,English Breakfast Black Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40
 Green Tea Latte with Nonfat Milk,Green Tea Latte,Nonfat,,140,0.3,0.2,0,5,115,25,1,24,10,20,10,30,4,55
 Green Tea Latte with 2% Milk,Green Tea Latte,2% Milk,,190,5,3.5,0.2,20,125,25,1,24,10,15,10,30,2,55
 Green Tea Latte with Whole Milk,Green Tea Latte,Whole,,220,9,5,0.3,25,115,25,1,24,9,15,10,30,4,55
@@ -145,19 +145,19 @@ Iced Green Tea Latte with 2% Milk,Iced Green Tea Latte,2% Milk,,160,4.5,2.5,0.2,
 Iced Green Tea Latte with Whole Milk,Iced Green Tea Latte,Whole,,180,7,4,0.2,20,95,22,1,21,7,10,10,25,4,55
 Iced Green Tea Latte with Soy Milk,Iced Green Tea Latte,Soy,,140,3.5,0.5,0,0,85,18,2,16,7,10,10,25,15,55
 Iced Green Tea Latte with Coconut Milk,Iced Green Tea Latte,Coconut,,120,4.5,4.5,0,0,90,19,1,18,1,2,10,2,2,55
-Iced Green Tea,Iced Green Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20-25
-Iced Green Tea Lemonade,Iced Green Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20-25
-Jade Citrus Mint Brewed Tea,Jade Citrus Mint Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16-25
-London Fog Tea Latte with Nonfat Milk,London Fog Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40+
-London Fog Tea Latte with 2% Milk,London Fog Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40+
-London Fog Tea Latte with Whole Milk,London Fog Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40+
-London Fog Tea Latte with Soy Milk,London Fog Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40+
-London Fog Tea Latte with Coconut Milk,London Fog Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40+
-Iced Mango Black Tea,Iced Mango Black Tea,,,60,0.1,0,0,0,10,14,0,14,0,0,0,0,0,20-25
-Iced Mango Black Tea Lemonade,Iced Mango Black Tea Lemonade,,,90,0.1,0,0,0,5,24,0,23,0.1,0,10,0,0,20-25
+Iced Green Tea,Iced Green Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20
+Iced Green Tea Lemonade,Iced Green Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20
+Jade Citrus Mint Brewed Tea,Jade Citrus Mint Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+London Fog Tea Latte with Nonfat Milk,London Fog Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40
+London Fog Tea Latte with 2% Milk,London Fog Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40
+London Fog Tea Latte with Whole Milk,London Fog Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40
+London Fog Tea Latte with Soy Milk,London Fog Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40
+London Fog Tea Latte with Coconut Milk,London Fog Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40
+Iced Mango Black Tea,Iced Mango Black Tea,,,60,0.1,0,0,0,10,14,0,14,0,0,0,0,0,20
+Iced Mango Black Tea Lemonade,Iced Mango Black Tea Lemonade,,,90,0.1,0,0,0,5,24,0,23,0.1,0,10,0,0,20
 Mint Majesty Brewed Tea,Mint Majesty Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oprah Chai Herbal Brewed Tea,Oprah Chai Herbal Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oprah Cinnamon Chai Brewed Tea,Oprah Cinnamon Chai Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
+Oprah Cinnamon Chai Brewed Tea,Oprah Cinnamon Chai Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
 Oprah Cinnamon Chai Latte with Nonfat Milk,Oprah Cinnamon Chai Latte,Nonfat,,130,0.1,0.1,0,5,70,25,0,23,5,10,0,20,0,40
 Oprah Cinnamon Chai Latte with 2% Milk,Oprah Cinnamon Chai Latte,2% Milk,,150,3,2,0.1,15,80,25,0,23,5,8,0,20,0,40
 Oprah Cinnamon Chai Latte with Whole Milk,Oprah Cinnamon Chai Latte,Whole,,170,5,3,0.2,15,70,25,0,23,5,8,0,15,0,40
@@ -171,12 +171,12 @@ Iced Oprah Cinnamon Chai Latte with Coconut Milk,Iced Oprah Cinnamon Chai Latte,
 Passion Tango Brewed Tea,Passion Tango Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iced Passion Tango tea,Iced Passion Tango tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,0
 Iced Passion Tango Tea Lemonade,Iced Passion Tango Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,0
-Peach Iced Green Tea,Peach Iced Green Tea,,,60,0.1,0,0,0,0,15,0,15,0,0,0,0,0,20-25
-Peach Iced Green Tea Lemonade,Peach Iced Green Tea Lemonade,,,100,0.1,0,0,0,0,25,0,24,0.1,0,10,0,0,20-25
+Peach Iced Green Tea,Peach Iced Green Tea,,,60,0.1,0,0,0,0,15,0,15,0,0,0,0,0,20
+Peach Iced Green Tea Lemonade,Peach Iced Green Tea Lemonade,,,100,0.1,0,0,0,0,25,0,24,0.1,0,10,0,0,20
 Peach Tranquility Brewed Tea,Peach Tranquility Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Youthberry Brewed Tea,Youthberry Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
-Cool Lime Starbucks Refreshers??Beverage,Cool Lime Starbucks Refreshers??Beverage,,,60,0,0,0,0,2,14,0,14,0.1,0,90,0,0,35-45
-Very Berry Hibiscus Starbucks Refreshers??Beverage,Very Berry Hibiscus Starbucks Refreshers??Beverage,,,70,0.1,0,0,0,2,18,1,15,0.1,0,90,0,2,35-45
+Youthberry Brewed Tea,Youthberry Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+Cool Lime Starbucks Refreshers??Beverage,Cool Lime Starbucks Refreshers??Beverage,,,60,0,0,0,0,2,14,0,14,0.1,0,90,0,0,45
+Very Berry Hibiscus Starbucks Refreshers??Beverage,Very Berry Hibiscus Starbucks Refreshers??Beverage,,,70,0.1,0,0,0,2,18,1,15,0.1,0,90,0,2,45
 Caffe Vanilla Frappuccino Blended Beverage with Nonfat Milk,Caffe Vanilla Frappuccino Blended Beverage,Nonfat,No Whip,200,0.1,0.1,0,0,150,47,0,46,3,4,0,8,0,65
 Caffe Vanilla Frappuccino Blended Beverage with Nonfat Milk and Whip,Caffe Vanilla Frappuccino Blended Beverage,Nonfat,Whip,280,8,5,0.2,30,160,50,0,48,3,15,0,10,0,65
 Caffe Vanilla Frappuccino Blended Beverage with 2% Milk,Caffe Vanilla Frappuccino Blended Beverage,2% Milk,No Whip,210,1.5,1,0,5,160,47,0,46,3,4,0,8,0,65
