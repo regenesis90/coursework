@@ -1,346 +1,346 @@
-﻿Temperature,Category,Product Name,Milk,Whip,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrates,Dietary Fiber,Sugar,Protein,Vitamin A,Vitamin C,Calcium,Iron,Caffeine
-Hot,Coffee,Brewed Coffee - Dark Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,193
-Hot,Coffee,Brewed Coffee - Decaf Pike Place Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,20
-Hot,Coffee,Brewed Coffee - Medium Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,235
-Hot,Coffee,Brewed Coffee - True North Blend Blonde Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,270
-Hot,Coffee,Caffe Misto,Nonfat,,60,0.2,0.1,0,5,70,8,0,8,6,10,0,20,0,115
-Hot,Coffee,Caffe Misto,2% Milk,,80,3,1.5,0.1,15,80,8,0,8,5,8,0,20,0,115
-Hot,Coffee,Caffe Misto,Whole,,100,5,3,0.2,15,70,8,0,8,5,8,0,15,0,115
-Hot,Coffee,Caffe Misto,Soy,,60,2.5,0.3,0,0,60,5,1,4,4,6,0,20,8,115
-Hot,Coffee,Caffe Misto,Coconut,,60,3.5,3.5,0,0,70,6,0,5,1,0,0,0,0,115
-Hot,Coffee,Clover Brewed Coffee - Dark Roast,,,10,0,0,0,0,10,0,0,0,0,0,0,0,0,280
-Hot,Coffee,Clover Brewed Coffee - Light Roast,,,10,0,0,0,0,10,0,0,0,0,0,0,0,0,255
-Hot,Coffee,Clover Brewed Coffee - Medium Roast,,,10,0,0,0,0,10,0,0,0,0,0,0,0,0,280
-Ice,Coffee,Iced Coffee,,,60,0,0,0,0,10,15,0,15,0.2,0,0,0,0,120
-Ice,Coffee,Iced Coffee with Milk,Nonfat,,80,0.1,0,0,0,30,17,0,17,2,2,0,6,0,90
-Ice,Coffee,Iced Coffee with Milk,2% Milk,,80,1,0.5,0,5,30,17,0,17,2,2,0,6,0,90
-Ice,Coffee,Iced Coffee with Milk,Whole,,90,1.5,1,0,5,30,17,0,17,2,2,0,6,0,90
-Ice,Coffee,Iced Coffee with Milk,Soy,,80,1,0.1,0,0,25,16,0,16,2,2,0,6,2,90
-Ice,Coffee,Iced Coffee with Milk,Coconut,,80,1,1,0,0,25,17,0,16,0.3,0,0,0,0,110
-Ice,Coffee,Cold Brewed Coffee,,,2,0,0,0,0,10,0,0,0,0.1,0,0,0,0,150
-Ice,Coffee,Vanilla Sweet Cream Cold Brew,,,100,6,3.5,0.2,20,20,12,0,12,1,6,0,2,0,140
-Hot,Espresso,Caffe Americano,,,10,0,0,0,0,10,2,0,0,1,0,0,2,0,150
-Ice,Espresso,Iced Caffe Americano,,,10,0,0,0,0,10,2,0,0,1,0,0,2,0,150
-Hot,Espresso,Caffe Latte,Nonfat,,100,0.2,0.2,0,5,120,15,0,14,10,15,0,30,0,75
-Hot,Espresso,Caffe Latte,2% Milk,,150,6,3.5,0.2,25,135,15,0,14,10,15,0,30,0,75
-Hot,Espresso,Caffe Latte,Whole,,180,9,5,0.3,30,125,15,0,14,9,15,0,30,0,75
-Hot,Espresso,Caffe Latte,Soy,,110,4.5,0.5,0,0,105,10,1,6,8,10,0,30,15,75
-Hot,Espresso,Caffe Latte,Coconut,,110,7,6,0,0,120,11,0,10,1,0,0,0,0,75
-Ice,Espresso,Iced Caffe Latte,Nonfat,,70,0.1,0.1,0,5,80,10,0,9,6,10,0,20,0,75
-Ice,Espresso,Iced Caffe Latte,2% Milk,,100,3.5,2,0.1,15,90,10,0,9,6,10,0,20,0,75
-Ice,Espresso,Iced Caffe Latte,Whole,,120,6,3.5,0.2,20,85,10,0,9,6,8,0,20,0,75
-Ice,Espresso,Iced Caffe Latte,Soy,,80,3,0.4,0,0,75,7,1,4,5,8,0,20,10,75
-Ice,Espresso,Iced Caffe Latte,Coconut,,70,4,4,0,0,80,7,0,6,1,0,0,0,0,75
-Hot,Espresso,Caffe Mocha,Nonfat,No Whip,190,2,1,0,5,100,32,3,27,10,15,0,30,25,95
-Hot,Espresso,Caffe Mocha,Nonfat,Whip,250,8,5,0.2,25,110,34,3,28,11,20,0,30,25,95
-Hot,Espresso,Caffe Mocha,2% Milk,No Whip,230,6,4,0.2,20,115,32,3,26,10,15,0,25,25,95
-Hot,Espresso,Caffe Mocha,2% Milk,Whip,290,13,8,0.4,40,120,34,3,28,11,20,2,30,25,95
-Hot,Espresso,Caffe Mocha,Whole,No Whip,250,9,6,0.2,25,105,32,3,26,10,10,0,25,25,95
-Hot,Espresso,Caffe Mocha,Whole,Whip,310,16,9,0.4,45,110,34,3,28,10,20,0,25,25,95
-Hot,Espresso,Caffe Mocha,Soy,No Whip,200,5,1.5,0,0,90,28,4,20,9,10,0,25,35,95
-Hot,Espresso,Caffe Mocha,Soy,Whip,260,11,5,0.2,25,95,30,4,22,9,15,0,30,35,95
-Hot,Espresso,Caffe Mocha,Coconut,No Whip,190,7,6,0,0,105,29,3,23,3,0,0,2,25,95
-Hot,Espresso,Caffe Mocha,Coconut,Whip,250,13,10,0.2,25,110,30,3,25,3,6,0,2,25,95
-Ice,Espresso,Iced Caffe Mocha,Nonfat,No Whip,150,2,1,0,5,65,27,3,22,7,8,0,15,25,95
-Ice,Espresso,Iced Caffe Mocha,Nonfat,Whip,240,10,6,0.2,30,75,30,3,23,7,15,0,20,25,95
-Ice,Espresso,Iced Caffe Mocha,2% Milk,No Whip,180,4.5,3,0.1,10,70,27,3,21,7,8,0,15,25,95
-Ice,Espresso,Iced Caffe Mocha,2% Milk,Whip,260,12,8,0.4,40,80,29,3,23,7,15,0,20,25,95
-Ice,Espresso,Iced Caffe Mocha,Whole,No Whip,190,6,3.5,0.1,15,65,27,3,21,7,6,0,15,25,95
-Ice,Espresso,Iced Caffe Mocha,Whole,Whip,270,14,9,0.4,45,75,29,3,23,7,15,0,15,25,95
-Ice,Espresso,Iced Caffe Mocha,Soy,No Whip,160,4,1.5,0,0,60,25,3,18,6,6,0,15,30,95
-Ice,Espresso,Iced Caffe Mocha,Soy,Whip,240,12,6,0.2,30,65,27,3,20,7,15,0,20,30,95
-Ice,Espresso,Iced Caffe Mocha,Coconut,No Whip,150,5,4,0,0,65,25,3,19,3,0,0,2,25,95
-Ice,Espresso,Iced Caffe Mocha,Coconut,Whip,240,13,9,0.2,30,70,27,3,22,3,10,0,2,25,95
-Hot,Espresso,Cappuccino,Nonfat,,60,0.1,0.1,0,5,70,9,0,8,6,10,0,20,0,75
-Hot,Espresso,Cappuccino,2% Milk,,90,3.5,1.5,0.1,15,80,9,0,8,6,10,0,20,0,75
-Hot,Espresso,Cappuccino,Whole,,110,6,3,0.2,15,75,9,0,8,6,8,0,20,0,75
-Hot,Espresso,Cappuccino,Soy,,70,3,0.4,0,0,65,7,1,4,5,6,0,20,8,75
-Hot,Espresso,Cappuccino,Coconut,,100,6,6,0,0,115,11,0,9,1,0,0,0,0,75
-Hot,Espresso,Caramel Macchiato,Nonfat,,150,1.5,1,0,10,105,27,0,25,8,15,0,25,0,75
-Hot,Espresso,Caramel Macchiato,2% Milk,,190,6,3.5,0.2,20,120,26,0,25,8,15,0,25,0,75
-Hot,Espresso,Caramel Macchiato,Whole,,210,9,5,0.2,25,110,26,0,25,8,10,0,25,0,75
-Hot,Espresso,Caramel Macchiato,Soy,,160,4.5,1,0,5,95,22,1,19,6,10,0,25,10,75
-Hot,Espresso,Caramel Macchiato,Coconut,,150,6,6,0,5,105,23,0,21,1,2,0,0,0,75
-Ice,Espresso,Iced Caramel Macchiato,Nonfat,,140,1.5,1,0,10,100,26,0,24,7,15,0,25,0,75
-Ice,Espresso,Iced Caramel Macchiato,2% Milk,,180,5,3.5,0.2,20,110,26,0,24,7,10,0,20,0,75
-Ice,Espresso,Iced Caramel Macchiato,Whole,,200,8,4.5,0.2,25,100,26,0,24,7,10,0,20,0,75
-Ice,Espresso,Iced Caramel Macchiato,Soy,,160,4.5,1.5,0,5,90,22,1,19,6,10,0,25,10,75
-Ice,Espresso,Iced Caramel Macchiato,Coconut,,140,6,5,0,5,95,23,0,21,1,2,0,0,0,75
-Hot,Espresso,Cinnamon Dolce Latte,Nonfat,No Whip,160,0.2,0.1,0,5,110,31,0,30,9,15,0,30,0,75
-Hot,Espresso,Cinnamon Dolce Latte,Nonfat,Whip,220,6,4,0.2,30,115,33,0,31,9,25,0,30,0,75
-Hot,Espresso,Cinnamon Dolce Latte,2% Milk,No Whip,200,5,2.5,0.2,20,125,30,0,29,9,15,0,30,0,75
-Hot,Espresso,Cinnamon Dolce Latte,2% Milk,Whip,270,11,6,0.3,45,130,32,0,31,9,20,2,30,0,75
-Hot,Espresso,Cinnamon Dolce Latte,Whole,No Whip,230,8,5,0.3,25,110,30,0,29,8,10,0,25,0,75
-Hot,Espresso,Cinnamon Dolce Latte,Whole,Whip,290,14,9,0.4,50,120,32,0,31,9,20,0,30,0,75
-Hot,Espresso,Cinnamon Dolce Latte,Soy,No Whip,170,4,0.5,0,0,95,26,1,23,7,10,0,30,15,75
-Hot,Espresso,Cinnamon Dolce Latte,Soy,Whip,240,10,4.5,0.2,20,100,28,1,25,8,15,0,30,15,75
-Hot,Espresso,Cinnamon Dolce Latte,Coconut,No Whip,160,6,6,0,0,110,27,0,26,1,0,0,0,0,75
-Hot,Espresso,Cinnamon Dolce Latte,Coconut,Whip,230,12,9,0.2,20,115,29,0,28,1,6,0,2,0,75
-Hot,Espresso,Flat White,Nonfat,,100,0.2,0.2,0,5,115,15,0,13,10,15,0,30,0,130
-Hot,Espresso,Flat White,2% Milk,,140,5,3.5,0.2,20,130,14,0,13,9,15,0,30,0,130
-Hot,Espresso,Flat White,Whole,,170,9,5,0.3,25,115,14,0,13,9,15,0,30,0,130
-Hot,Espresso,Flat White,Soy,,110,4,0.5,0,0,100,10,1,6,8,10,0,30,15,130
-Hot,Espresso,Flat White,Coconut,,100,6,6,0,0,110,11,0,9,1,0,0,0,0,130
-Hot,Espresso,Latte Macchiato,Nonfat,,100,0.2,0.2,0,5,115,15,0,13,10,15,0,30,0,150
-Hot,Espresso,Latte Macchiato,2% Milk,,140,5,3.5,0.2,20,130,15,0,13,9,15,0,30,0,150
-Hot,Espresso,Latte Macchiato,Whole,,170,9,5,0.3,25,115,15,0,13,9,15,0,30,0,150
-Hot,Espresso,Latte Macchiato,Soy,,110,4,0.5,0,0,100,10,1,6,8,10,0,30,15,150
-Hot,Espresso,Latte Macchiato,Coconut,,100,6,6,0,0,110,11,0,9,1,0,0,0,0,150
-Hot,Espresso,Skinny Cinnamon Dolce Latte,Nonfat,,100,0.2,0.1,0,5,125,14,0,13,9,15,0,30,0,75
-Ice,Espresso,Iced Skinny Cinnamon Dolce Latte,Nonfat,,60,0.1,0.1,0,5,80,9,0,8,6,10,0,20,0,75
-Hot,Espresso,Skinny Mocha,Nonfat,,130,1,1,0.1,5,115,18,3,12,11,15,0,30,45,75
-Ice,Espresso,Iced Skinny Mocha,Nonfat,,90,1,0.5,0.1,5,75,13,3,7,7,8,0,15,45,75
-Ice,Espresso,Starbucks Doubleshot on Ice,Nonfat,,70,0,0,0,0,35,14,0,13,3,4,0,8,0,150
-Ice,Espresso,Starbucks Doubleshot on Ice,2% Milk,,80,1,1,0.1,5,35,14,0,13,3,4,0,8,0,150
-Ice,Espresso,Starbucks Doubleshot on Ice,Whole,,90,2,1,0.1,5,35,14,0,13,2,2,0,8,0,150
-Ice,Espresso,Starbucks Doubleshot on Ice,Soy,,70,1,0.1,0,0,30,13,0,11,2,2,0,8,4,150
-Ice,Espresso,Starbucks Doubleshot on Ice,Coconut,,70,1.5,1.5,0,0,30,13,0,12,1,0,0,0,0,150
-Hot,Espresso,White Chocolate Mocha,Nonfat,No Whip,270,4.5,3.5,0,10,180,46,0,45,11,15,2,35,0,75
-Hot,Espresso,White Chocolate Mocha,Nonfat,Whip,330,10,7,0.2,30,190,48,0,46,12,20,2,35,0,75
-Hot,Espresso,White Chocolate Mocha,2% Milk,No Whip,300,9,6,0.1,25,190,46,0,44,11,15,2,35,0,75
-Hot,Espresso,White Chocolate Mocha,2% Milk,Whip,370,15,10,0.3,45,200,47,0,46,11,20,2,35,0,75
-Hot,Espresso,White Chocolate Mocha,Whole,No Whip,330,12,8,0.2,30,180,46,0,44,11,10,2,35,0,75
-Hot,Espresso,White Chocolate Mocha,Whole,Whip,390,18,12,0.4,50,190,47,0,46,11,20,2,35,0,75
-Hot,Espresso,White Chocolate Mocha,Soy,No Whip,280,8,4,0,5,170,41,1,38,10,10,2,35,10,75
-Hot,Espresso,White Chocolate Mocha,Soy,Whip,340,14,8,0.2,25,170,43,1,40,10,15,2,35,10,75
-Hot,Espresso,White Chocolate Mocha,Coconut,No Whip,270,10,9,0,5,180,42,0,41,4,0,2,10,0,75
-Hot,Espresso,White Chocolate Mocha,Coconut,Whip,330,16,12,0.2,25,180,44,0,43,4,6,2,10,0,75
-Ice,Espresso,Iced White Chocolate Mocha,Nonfat,No Whip,230,4.5,3.5,0,5,135,41,0,40,8,8,2,25,0,75
-Ice,Espresso,Iced White Chocolate Mocha,Nonfat,Whip,310,12,8,0.2,35,150,43,0,41,8,15,2,25,0,75
-Ice,Espresso,Iced White Chocolate Mocha,2% Milk,No Whip,250,7,5,0.1,15,140,41,0,39,8,8,2,25,0,75
-Ice,Espresso,Iced White Chocolate Mocha,2% Milk,Whip,330,15,10,0.3,45,150,43,0,41,8,15,2,25,0,75
-Ice,Espresso,Iced White Chocolate Mocha,Whole,No Whip,270,9,6,0.1,15,140,41,0,39,7,6,2,25,0,75
-Ice,Espresso,Iced White Chocolate Mocha,Whole,Whip,350,17,11,0.4,45,150,43,0,41,8,15,2,25,0,75
-Ice,Espresso,Iced White Chocolate Mocha,Soy,No Whip,240,6,3.5,0,5,130,38,1,36,7,6,2,25,8,75
-Ice,Espresso,Iced White Chocolate Mocha,Soy,Whip,320,14,9,0.2,35,140,41,1,38,7,15,2,25,8,75
-Ice,Espresso,Iced White Chocolate Mocha,Coconut,No Whip,230,7,6,0,5,135,39,0,37,3,0,2,10,0,75
-Ice,Espresso,Iced White Chocolate Mocha,Coconut,Whip,310,15,11,0.2,35,140,41,0,39,4,10,2,10,0,75
-Ice,Tea,Iced Black Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20-25
-Ice,Tea,Iced Black Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20-25
-Hot,Tea,Chai Tea Latte,Nonfat,,160,0.2,0.1,0,5,80,34,0,32,6,10,0,20,2,70
-Hot,Tea,Chai Tea Latte,2% Milk,,190,3.5,1.5,0.1,15,90,34,0,32,6,10,0,20,2,70
-Hot,Tea,Chai Tea Latte,Whole,,200,6,3,0.2,15,80,34,0,32,6,8,0,20,2,70
-Hot,Tea,Chai Tea Latte,Soy,,160,2.5,0.3,0,0,70,31,1,28,5,6,0,20,10,70
-Hot,Tea,Chai Tea Latte,Coconut,,160,3.5,3.5,0,0,75,31,0,29,1,0,0,0,2,70
-Ice,Tea,Iced Chai Tea Latte,Nonfat,,150,0.2,0.1,0,5,75,33,0,31,6,10,0,20,2,70
-Ice,Tea,Iced Chai Tea Latte,2% Milk,,180,3,1.5,0.1,10,80,33,0,31,5,8,0,15,2,70
-Ice,Tea,Iced Chai Tea Latte,Whole,,190,5,3,0.1,15,75,33,0,31,5,8,0,15,2,70
-Ice,Tea,Iced Chai Tea Latte,Soy,,160,2.5,0.3,0,0,70,30,1,27,5,6,0,20,8,70
-Ice,Tea,Iced Chai Tea Latte,Coconut,,150,3.5,3,0,0,70,31,0,29,1,0,0,0,2,70
-Hot,Tea,Earl Grey Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40+
-Hot,Tea,Emperor's Clouds and Mist Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
-Hot,Tea,English Breakfast Black Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40+
-Hot,Tea,English Breakfast Black Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40+
-Hot,Tea,English Breakfast Black Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40+
-Hot,Tea,English Breakfast Black Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40+
-Hot,Tea,English Breakfast Black Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40+
-Hot,Tea,English Breakfast Black Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40+
-Hot,Tea,Green Tea Latte,Nonfat,,140,0.3,0.2,0,5,115,25,1,24,10,20,10,30,4,55
-Hot,Tea,Green Tea Latte,2% Milk,,190,5,3.5,0.2,20,125,25,1,24,10,15,10,30,2,55
-Hot,Tea,Green Tea Latte,Whole,,220,9,5,0.3,25,115,25,1,24,9,15,10,30,4,55
-Hot,Tea,Green Tea Latte,Soy,,160,4.5,0.5,0,0,105,20,2,17,8,10,10,30,15,55
-Hot,Tea,Green Tea Latte,Coconut,,140,6,6,0,0,105,21,1,19,1,2,10,0,2,55
-Ice,Tea,Iced Green Tea Latte,Nonfat,,120,0.3,0.1,0,5,95,22,1,21,8,15,10,25,4,55
-Ice,Tea,Iced Green Tea Latte,2% Milk,,160,4.5,2.5,0.2,15,105,22,1,21,8,15,10,25,2,55
-Ice,Tea,Iced Green Tea Latte,Whole,,180,7,4,0.2,20,95,22,1,21,7,10,10,25,4,55
-Ice,Tea,Iced Green Tea Latte,Soy,,140,3.5,0.5,0,0,85,18,2,16,7,10,10,25,15,55
-Ice,Tea,Iced Green Tea Latte,Coconut,,120,4.5,4.5,0,0,90,19,1,18,1,2,10,2,2,55
-Ice,Tea,Iced Green Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20-25
-Ice,Tea,Iced Green Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20-25
-Hot,Tea,Jade Citrus Mint Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16-25
-Hot,Tea,London Fog Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40+
-Hot,Tea,London Fog Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40+
-Hot,Tea,London Fog Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40+
-Hot,Tea,London Fog Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40+
-Hot,Tea,London Fog Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40+
-Ice,Tea,Iced Mango Black Tea,,,60,0.1,0,0,0,10,14,0,14,0,0,0,0,0,20-25
-Ice,Tea,Iced Mango Black Tea Lemonade,,,90,0.1,0,0,0,5,24,0,23,0.1,0,10,0,0,20-25
-Hot,Tea,Mint Majesty Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hot,Tea,Oprah Chai Herbal Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hot,Tea,Oprah Cinnamon Chai Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
-Hot,Tea,Oprah Cinnamon Chai Latte,Nonfat,,130,0.1,0.1,0,5,70,25,0,23,5,10,0,20,0,40
-Hot,Tea,Oprah Cinnamon Chai Latte,2% Milk,,150,3,2,0.1,15,80,25,0,23,5,8,0,20,0,40
-Hot,Tea,Oprah Cinnamon Chai Latte,Whole,,170,5,3,0.2,15,70,25,0,23,5,8,0,15,0,40
-Hot,Tea,Oprah Cinnamon Chai Latte,Soy,,130,2.5,0.3,0,0,60,22,1,19,4,6,0,20,8,40
-Hot,Tea,Oprah Cinnamon Chai Latte,Coconut,,130,3.5,3.5,0,0,70,22,0,21,0.4,0,0,0,0,40
-Ice,Tea,Iced Oprah Cinnamon Chai Latte,Nonfat,,120,0.1,0.1,0,5,70,24,0,23,5,10,0,15,0,40
-Ice,Tea,Iced Oprah Cinnamon Chai Latte,2% Milk,,150,3,2,0.1,10,75,24,0,23,5,8,0,15,0,40
-Ice,Tea,Iced Oprah Cinnamon Chai Latte,Whole,,160,5,3,0.1,15,70,24,0,23,5,8,0,15,0,40
-Ice,Tea,Iced Oprah Cinnamon Chai Latte,Soy,,130,2.5,0.3,0,0,65,22,1,19,4,6,0,20,8,40
-Ice,Tea,Iced Oprah Cinnamon Chai Latte,Coconut,,120,3.5,3,0,0,65,22,0,20,0.3,0,0,0,0,40
-Hot,Tea,Passion Tango Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ice,Tea,Iced Passion Tango tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,0
-Ice,Tea,Iced Passion Tango Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,0
-Ice,Tea,Peach Iced Green Tea,,,60,0.1,0,0,0,0,15,0,15,0,0,0,0,0,20-25
-Ice,Tea,Peach Iced Green Tea Lemonade,,,100,0.1,0,0,0,0,25,0,24,0.1,0,10,0,0,20-25
-Hot,Tea,Peach Tranquility Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hot,Tea,Youthberry Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
-Ice,Starbucks Refreshers,Cool Lime Starbucks Refreshers™ Beverage,,,60,0,0,0,0,2,14,0,14,0.1,0,90,0,0,35-45
-Ice,Starbucks Refreshers,Very Berry Hibiscus Starbucks Refreshers™ Beverage,,,70,0.1,0,0,0,2,18,1,15,0.1,0,90,0,2,35-45
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Nonfat,No Whip,200,0.1,0.1,0,0,150,47,0,46,3,4,0,8,0,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Nonfat,Whip,280,8,5,0.2,30,160,50,0,48,3,15,0,10,0,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,2% Milk,No Whip,210,1.5,1,0,5,160,47,0,46,3,4,0,8,0,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,2% Milk,Whip,290,10,6,0.3,35,170,50,0,48,3,15,0,10,0,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Whole,No Whip,220,2.5,1.5,0.1,10,150,47,0,46,3,4,0,8,0,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Whole,Whip,300,11,6,0.3,35,160,50,0,48,3,15,0,10,0,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Soy,No Whip,200,1.5,0.2,0,0,150,46,0,44,2,4,0,10,4,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Soy,Whip,290,9,5,0.2,30,160,48,0,46,3,10,0,10,4,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Coconut,No Whip,200,1.5,1.5,0,0,150,47,0,45,0.4,0,0,0,0,65
-Ice,Frappuccino Blended Coffee,Caffe Vanilla Frappuccino Blended Beverage,Coconut,Whip,280,10,7,0.2,30,160,49,0,47,1,10,0,2,0,65
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Nonfat,No Whip,180,0.1,0,0,0,160,42,0,42,3,4,0,10,0,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Nonfat,Whip,280,9,5,0.2,35,180,47,0,47,3,15,0,10,0,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,2% Milk,No Whip,190,1.5,1,0.1,5,170,42,0,42,3,4,0,10,0,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,2% Milk,Whip,290,10,6,0.3,40,180,47,0,46,3,15,0,10,0,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Whole,No Whip,200,2.5,1.5,0.1,10,160,42,0,42,3,4,0,8,0,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Whole,Whip,300,11,7,0.3,40,180,47,0,46,3,15,0,10,0,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Soy,No Whip,190,1.5,0.2,0,0,160,41,0,40,2,4,0,10,4,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Soy,Whip,280,10,6,0.2,30,170,46,0,45,3,15,0,10,4,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Coconut,No Whip,180,2,1.5,0,0,160,41,0,40,0.4,0,0,0,0,70
-Ice,Frappuccino Blended Coffee,Caramel Frappuccino Blended Beverage,Coconut,Whip,280,10,7,0.2,30,170,46,0,45,1,10,0,2,0,70
-Ice,Frappuccino Blended Coffee,Coffee Frappuccino Blended Beverage,Nonfat,,160,0.1,0,0,0,160,36,0,36,3,4,0,10,0,70
-Ice,Frappuccino Blended Coffee,Coffee Frappuccino Blended Beverage,2% Milk,,170,1.5,1,0,5,160,36,0,36,3,4,0,8,0,70
-Ice,Frappuccino Blended Coffee,Coffee Frappuccino Blended Beverage,Whole,,180,2.5,1.5,0.1,10,160,36,0,36,3,4,0,8,0,70
-Ice,Frappuccino Blended Coffee,Coffee Frappuccino Blended Beverage,Soy,,160,1.5,0.2,0,0,150,35,0,34,2,4,0,10,4,70
-Ice,Frappuccino Blended Coffee,Coffee Frappuccino Blended Beverage,Coconut,,160,2,1.5,0,0,150,36,0,35,0.4,0,0,0,0,70
-Ice,Frappuccino Blended Coffee,Espresso Frappuccino Blended Beverage,Nonfat,,150,0,0,0,0,135,34,0,33,2,2,0,6,0,130
-Ice,Frappuccino Blended Coffee,Espresso Frappuccino Blended Beverage,2% Milk,,150,1,0.5,0,5,140,34,0,33,2,2,0,6,0,130
-Ice,Frappuccino Blended Coffee,Espresso Frappuccino Blended Beverage,Whole,,160,1.5,1,0,5,140,34,0,33,2,2,0,6,0,130
-Ice,Frappuccino Blended Coffee,Espresso Frappuccino Blended Beverage,Soy,,150,1,0.1,0,0,135,33,0,31,2,2,0,6,2,130
-Ice,Frappuccino Blended Coffee,Espresso Frappuccino Blended Beverage,Coconut,,150,1,1,0,0,135,34,0,32,1,0,0,0,0,130
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Nonfat,No Whip,230,3,2,0,0,180,47,2,44,4,4,0,10,20,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Nonfat,Whip,320,11,7,0.3,30,190,51,2,47,4,15,0,10,20,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,2% Milk,No Whip,240,4.5,3,0.1,5,180,47,2,44,4,4,0,10,20,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,2% Milk,Whip,330,12,8,0.3,35,190,51,2,47,4,15,0,10,20,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Whole,No Whip,250,5,3.5,0.1,10,180,47,2,44,4,4,0,10,20,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Whole,Whip,340,13,9,0.3,35,190,51,2,47,4,15,0,10,20,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Soy,No Whip,230,4,2.5,0,0,180,46,2,42,3,4,0,10,25,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Soy,Whip,320,12,7,0.3,30,180,50,2,45,4,10,0,10,25,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Coconut,No Whip,230,4.5,3.5,0,0,180,46,2,43,1,0,0,2,20,75
-Ice,Frappuccino Blended Coffee,Java Chip Frappuccino Blended Beverage,Coconut,Whip,320,13,9,0.3,30,180,50,2,46,2,10,0,2,20,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Nonfat,No Whip,190,0.5,0.4,0,0,160,42,1,40,3,4,0,10,8,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Nonfat,Whip,270,9,5,0.2,30,170,45,1,42,4,15,0,10,8,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,2% Milk,No Whip,200,2,1.5,0.1,5,160,42,1,40,3,4,0,10,8,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,2% Milk,Whip,280,10,6,0.3,35,170,44,1,42,4,15,0,10,8,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Whole,No Whip,210,3,2,0.1,10,160,42,1,40,3,4,0,10,8,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Whole,Whip,290,11,7,0.3,35,170,44,1,42,4,15,0,10,8,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Soy,No Whip,190,2,0.5,0,0,160,41,1,38,3,4,0,10,10,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Soy,Whip,270,10,5,0.2,30,160,43,1,40,3,10,0,10,10,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Coconut,No Whip,190,2,2,0,0,160,41,1,39,1,0,0,0,8,75
-Ice,Frappuccino Blended Coffee,Mocha Frappuccino Blended Beverage,Coconut,Whip,270,10,7,0.2,30,160,43,1,41,1,10,0,2,8,75
-Ice,Frappuccino Light Blended Coffee,Caffe Vanilla Frappuccino Light Blended Beverage,Nonfat,,140,0.1,0.1,0,0,150,31,0,30,3,4,0,8,0,65
-Ice,Frappuccino Light Blended Coffee,Caramel Frappuccino Light Blended Beverage,Nonfat,,100,0.1,0,0,0,140,23,0,23,3,4,0,8,0,65
-Ice,Frappuccino Light Blended Coffee,Coffee Frappuccino Light Blended Beverage,Nonfat,,90,0.1,0,0,0,160,20,0,19,3,4,0,10,0,70
-Ice,Frappuccino Light Blended Coffee,Espresso Frappuccino Light Blended Beverage,Nonfat,,80,0,0,0,0,130,17,0,16,2,2,0,6,0,125
-Ice,Frappuccino Light Blended Coffee,Java Chip Light Frappuccino Blended Beverage,Nonfat,,160,3,2,0,0,170,30,2,27,4,4,0,10,20,75
-Ice,Frappuccino Light Blended Coffee,Mocha Light Frappuccino Blended Beverage,Nonfat,,120,0.5,0.4,0,0,150,24,1,23,3,4,0,10,8,70
-Ice,Frappucino Blended Creme,Blended Strawberry Lemonade,,,160,0.1,0,0,0,120,40,0,39,0.2,0,15,2,2,0
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Nonfat,No Whip,140,0.1,0.1,0,0,150,33,0,32,4,6,0,10,0,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Nonfat,Whip,230,8,5,0.2,30,160,35,0,34,4,15,0,15,0,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,2% Milk,No Whip,160,2,1,0.1,10,160,32,0,32,3,6,0,10,0,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,2% Milk,Whip,240,10,6,0.3,40,170,35,0,34,4,15,0,15,0,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Whole,No Whip,170,3.5,2,0.1,10,150,32,0,32,3,4,0,10,0,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Whole,Whip,250,11,7,0.3,40,160,35,0,34,4,15,0,10,0,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Soy,No Whip,150,1.5,0.2,0,0,150,31,0,29,3,4,0,10,6,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Soy,Whip,230,10,5,0.2,30,160,33,1,31,3,15,0,15,6,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Coconut,No Whip,140,2,2,0,0,150,31,0,30,0.3,0,0,0,0,20
-Ice,Frappucino Blended Creme,Chai Creme Frappuccino Blended Beverage,Coconut,Whip,220,10,7,0.2,30,160,33,0,32,1,10,0,2,0,20
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Nonfat,No Whip,200,3,2.5,0,0,190,39,2,36,5,6,0,15,20,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Nonfat,Whip,280,11,7,0.3,30,200,42,2,39,5,15,0,15,25,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,2% Milk,No Whip,210,5,3.5,0.1,10,190,38,2,35,5,6,0,15,20,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,2% Milk,Whip,300,13,9,0.3,40,200,42,2,38,5,15,0,15,25,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Whole,No Whip,220,6,4,0.1,10,190,38,2,35,4,6,0,10,20,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Whole,Whip,310,14,9,0.4,40,200,42,2,38,5,15,0,15,25,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Soy,No Whip,200,4.5,2.5,0,0,180,37,2,33,4,4,0,15,25,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Soy,Whip,290,13,7,0.3,30,190,40,2,36,5,15,0,15,30,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Coconut,No Whip,200,5,4.5,0,0,190,37,2,34,1,0,0,2,20,10
-Ice,Frappucino Blended Creme,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Coconut,Whip,280,13,9,0.3,30,190,41,2,37,2,10,0,2,20,10
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Nonfat,No Whip,210,0.2,0.1,0,0,170,47,1,46,4,6,10,15,2,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Nonfat,Whip,290,8,5,0.2,30,170,50,1,48,5,15,10,15,2,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,2% Milk,No Whip,230,2.5,1.5,0.1,10,170,47,1,46,4,6,10,15,2,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,2% Milk,Whip,310,10,6,0.3,40,180,50,1,48,5,15,10,15,2,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Whole,No Whip,240,3.5,2,0.1,10,170,47,1,46,4,6,10,10,2,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Whole,Whip,320,12,7,0.3,40,180,50,1,48,5,15,10,15,2,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Soy,No Whip,220,2,0.2,0,0,160,46,1,44,4,4,10,15,8,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Soy,Whip,300,10,5,0.2,30,170,48,1,45,4,15,10,15,8,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Coconut,No Whip,210,2.5,2.5,0,0,160,46,1,44,1,0,10,2,2,50
-Ice,Frappucino Blended Creme,Green Tea Creme Frappuccino Blended Beverage,Coconut,Whip,290,10,7,0.2,30,170,48,1,47,1,10,10,2,2,50
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Nonfat,No Whip,140,0.1,0,0,0,135,30,0,30,3,6,0,10,0,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Nonfat,Whip,220,8,5,0.2,30,140,33,0,32,3,15,0,10,0,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,2% Milk,No Whip,150,2,1,0.1,5,140,30,0,29,3,4,0,10,0,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,2% Milk,Whip,230,10,6,0.3,35,150,33,0,32,3,15,0,10,0,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Whole,No Whip,160,3,1.5,0.1,10,135,30,0,29,3,4,0,10,0,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Whole,Whip,240,11,7,0.3,40,140,33,0,32,3,15,0,10,0,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Soy,No Whip,140,1.5,0.2,0,0,130,29,0,27,2,4,0,10,4,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Soy,Whip,220,9,5,0.2,30,140,31,0,30,3,15,0,10,4,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Coconut,No Whip,140,2,2,0,0,135,29,0,28,0.2,0,0,0,0,20
-Ice,Frappucino Blended Creme,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Coconut,Whip,220,10,7,0.2,30,140,31,0,30,1,10,0,2,0,20
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Nonfat,No Whip,170,0.1,0.1,0,0,140,38,0,37,3,6,6,10,2,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Nonfat,Whip,250,8,5,0.2,30,150,41,0,39,4,15,6,15,2,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,2% Milk,No Whip,180,2,1,0.1,5,150,38,0,37,3,6,6,10,2,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,2% Milk,Whip,260,10,6,0.3,35,160,40,0,39,4,15,6,15,2,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Whole,No Whip,190,3,1.5,0.1,10,140,38,0,37,3,4,6,10,2,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Whole,Whip,270,11,7,0.3,40,150,40,0,39,3,15,6,10,2,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Soy,No Whip,170,1.5,0.2,0,0,140,37,1,35,3,4,6,10,6,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Soy,Whip,250,9,5,0.2,30,150,39,1,37,3,15,6,15,6,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Coconut,No Whip,170,2,2,0,0,140,37,0,35,0.3,0,6,2,2,0
-Ice,Frappucino Blended Creme,Strawberries & Creme Frappuccino Blended Beverage,Coconut,Whip,250,10,7,0.2,30,150,39,0,38,1,10,6,2,2,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Nonfat,No Whip,170,0.1,0.1,0,0,160,39,0,38,4,6,0,10,0,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Nonfat,Whip,250,8,5,0.2,30,170,41,0,40,4,15,0,15,0,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,2% Milk,No Whip,190,2,1,0.1,10,170,39,0,38,4,6,0,10,0,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,2% Milk,Whip,270,10,6,0.3,40,170,41,0,39,4,15,0,15,0,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Whole,No Whip,200,3.5,2,0.1,10,160,39,0,38,3,6,0,10,0,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Whole,Whip,280,11,7,0.3,40,170,41,0,39,4,15,0,10,0,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Soy,No Whip,180,1.5,0.2,0,0,160,37,1,35,3,4,0,10,6,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Soy,Whip,260,10,5,0.2,30,160,39,1,37,3,15,0,15,6,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Coconut,No Whip,170,2.5,2,0,0,160,37,0,36,0.2,0,0,0,0,0
-Ice,Frappucino Blended Creme,Vanilla Bean Creme Frappuccino Blended Creme,Coconut,Whip,250,10,7,0.2,30,160,39,0,38,1,10,0,2,0,0
-Hot,Hot Chocolate & Other,Caramel Apple Spice,,No Whip,210,0,0,0,0,15,53,0,49,0,0,0,0,0,0
-Hot,Hot Chocolate & Other,Caramel Apple Spice,,Whip,300,7,4.5,0.2,25,30,59,0,55,0.4,8,0,2,0,0
-Hot,Hot Chocolate & Other,Hot Chocolate,Nonfat,No Whip,210,2,1,0,5,110,37,3,32,11,15,0,30,25,20
-Hot,Hot Chocolate & Other,Hot Chocolate,Nonfat,Whip,280,8,5,0.2,30,115,40,3,34,11,25,0,30,25,20
-Hot,Hot Chocolate & Other,Hot Chocolate,2% Milk,No Whip,250,7,4.5,0.2,20,125,37,3,32,11,15,0,30,25,20
-Hot,Hot Chocolate & Other,Hot Chocolate,2% Milk,Whip,320,13,8,0.4,45,130,39,3,34,11,20,2,30,25,20
-Hot,Hot Chocolate & Other,Hot Chocolate,Whole,No Whip,280,10,6,0.3,25,110,37,3,32,10,10,0,30,25,20
-Hot,Hot Chocolate & Other,Hot Chocolate,Whole,Whip,350,16,10,0.4,50,120,39,3,34,11,20,0,30,25,20
-Hot,Hot Chocolate & Other,Hot Chocolate,Soy,No Whip,220,6,1.5,0,0,95,32,4,25,9,10,0,30,40,20
-Hot,Hot Chocolate & Other,Hot Chocolate,Soy,Whip,290,12,5,0.2,25,100,35,4,28,9,15,0,30,40,20
-Hot,Hot Chocolate & Other,Hot Chocolate,Coconut,No Whip,210,8,7,0,0,110,33,3,28,3,0,0,2,25,20
-Hot,Hot Chocolate & Other,Hot Chocolate,Coconut,Whip,280,14,10,0.2,25,115,36,3,31,3,6,0,2,25,20
-Ice,Hot Chocolate & Other,Lemonade,,,80,0,0,0,0,0,21,0,21,0.1,0,25,0,0,0
-Hot,Hot Chocolate & Other,Milk,Nonfat,,140,0.3,0.2,0,10,170,20,0,20,14,25,0,45,0,0
-Hot,Hot Chocolate & Other,Milk,2% Milk,,200,8,4,0.2,30,190,19,0,19,13,20,2,45,0,0
-Hot,Hot Chocolate & Other,Milk,Whole,,240,13,7,0.4,40,170,19,0,19,13,20,0,40,0,0
-Hot,Hot Chocolate & Other,Milk,Soy,,160,6,1,0,0,150,13,2,10,11,15,0,45,20,0
-Hot,Hot Chocolate & Other,Milk,Coconut,,130,9,8,0,0,160,13,0,13,1,0,0,0,0,0
-Hot,Hot Chocolate & Other,Skinny Hot Chocolate,Nonfat,,130,1.5,1,0.1,5,125,18,3,13,11,15,0,30,45,0
-Hot,Hot Chocolate & Other,Steamed Apple Juice,,,170,0,0,0,0,15,44,0,39,0,0,0,0,0,0
-Hot,Hot Chocolate & Other,Steamed Milk,Nonfat,,110,0.2,0.2,0,5,130,15,0,15,10,20,0,35,0,0
-Hot,Hot Chocolate & Other,Steamed Milk,2% Milk,,160,6,3,0.2,25,150,15,0,15,10,15,2,35,0,0
-Hot,Hot Chocolate & Other,Steamed Milk,Whole,,190,10,6,0.3,30,135,15,0,15,10,15,0,30,0,0
-Hot,Hot Chocolate & Other,Steamed Milk,Soy,,120,4.5,0.5,0,0,110,9,1,7,8,10,0,35,15,0
-Hot,Hot Chocolate & Other,Steamed Milk,Coconut,,110,7,7,0,0,130,11,0,11,1,0,0,0,0,0
-Hot,Hot Chocolate & Other,Vanilla Steamer,Nonfat,,160,0.2,0.2,0,5,120,29,0,29,10,20,0,30,0,0
-Hot,Hot Chocolate & Other,Vanilla Steamer,2% Milk,,200,6,3,0.2,25,135,28,0,28,10,15,0,30,0,0
-Hot,Hot Chocolate & Other,Vanilla Steamer,Whole,,230,9,5,0.3,30,125,28,0,28,9,15,0,30,0,0
-Hot,Hot Chocolate & Other,Vanilla Steamer,Soy,,170,4.5,0.5,0,0,105,23,1,21,8,10,0,30,15,0
-Hot,Hot Chocolate & Other,Vanilla Steamer,Coconut,,160,7,6,0,0,125,25,0,24,1,0,0,0,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Nonfat,No Whip,270,4.5,3.5,0,10,190,46,0,46,12,15,2,40,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Nonfat,Whip,330,11,7,0.2,30,200,48,0,47,12,25,2,40,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,2% Milk,No Whip,310,9,6,0.2,25,200,46,0,46,12,15,2,40,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,2% Milk,Whip,370,16,10,0.3,45,210,48,0,47,12,20,2,40,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Whole,No Whip,340,13,8,0.3,30,190,46,0,46,11,10,2,35,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Whole,Whip,400,19,12,0.4,55,200,48,0,47,11,20,2,35,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Soy,No Whip,280,8,4,0,5,180,41,1,39,10,10,2,40,15,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Soy,Whip,340,14,8,0.2,25,180,43,1,40,10,15,2,40,15,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Coconut,No Whip,270,10,9,0,5,190,42,0,42,3,0,2,10,0,0
-Hot,Hot Chocolate & Other,White Hot Chocolate,Coconut,Whip,330,16,13,0.2,25,190,44,0,43,4,6,2,10,0,0
-Hot,Add-Ons,Sweetened Whipped Cream,,,60,6,4,0.2,20,5,2,0,1,0.3,6,0,0,0,0
-Cold,Add-Ons,Sweetened Whipped Cream,,,80,8,5,0.2,30,10,2,0,2,0.4,10,0,2,0,0
-All,Add-Ons,Flavoured Syrup,,,20,0,0,0,0,0,5,0,5,0,0,0,0,0,0
-All,Add-Ons,Flavoured Sugar-Free Syrup,,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
-All,Add-Ons,Mocha Syrup,,,35,0.5,0,0,0,0,7,1,5,1,0,0,0,6,5
-All,Add-Ons,Mocha Drizzle,,,10,0.5,0.1,0,0,0,1,0,1,0.2,0,0,0,2,0
-All,Add-Ons,Caramel Drizzle,,,15,0,0.3,0,0,4,2,0,2,0,0,0,0,0,0
-All,Add-Ons,Espresso Shot,,,5,0.1,0,0,0,0,1,0,0,0.4,0,0,0,0,75
-All,Add-Ons,Matcha Green Tea Powder,,,25,0.1,0,0,0,0,6,0,5,0.3,0,4,0,2,25
-All,Add-Ons,Protein & Fibre Powder,,,30,0.1,0.1,0,0,45,1,1,0,6,0,0,0,2,0
+Beverage,Product,Milk,Whip,Calories,Total_Fat,Saturated_Fat,Trans_Fat,Cholesterol,Sodium,Total_Carbohydrates,Dietary_Fiber,Sugar,Protein,Vitamin_A,Vitamin_C,Calcium,Iron,Caffeine
+Brewed Coffee - Dark Roast,Brewed Coffee - Dark Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,193
+Brewed Coffee - Decaf Pike Place Roast,Brewed Coffee - Decaf Pike Place Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,20
+Brewed Coffee - Medium Roast,Brewed Coffee - Medium Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,235
+Brewed Coffee - True North Blend Blonde Roast,Brewed Coffee - True North Blend Blonde Roast,,,4,0.1,0,0,0,10,0,0,0,0.5,0,0,0,0,270
+Caffe Misto with Nonfat Milk,Caffe Misto,Nonfat,,60,0.2,0.1,0,5,70,8,0,8,6,10,0,20,0,115
+Caffe Misto with 2% Milk,Caffe Misto,2% Milk,,80,3,1.5,0.1,15,80,8,0,8,5,8,0,20,0,115
+Caffe Misto with Whole Milk,Caffe Misto,Whole,,100,5,3,0.2,15,70,8,0,8,5,8,0,15,0,115
+Caffe Misto with Soy Milk,Caffe Misto,Soy,,60,2.5,0.3,0,0,60,5,1,4,4,6,0,20,8,115
+Caffe Misto with Coconut Milk,Caffe Misto,Coconut,,60,3.5,3.5,0,0,70,6,0,5,1,0,0,0,0,115
+Clover Brewed Coffee - Dark Roast,Clover Brewed Coffee - Dark Roast,,,10,0,0,0,0,10,0,0,0,0,0,0,0,0,280
+Clover Brewed Coffee - Light Roast,Clover Brewed Coffee - Light Roast,,,10,0,0,0,0,10,0,0,0,0,0,0,0,0,255
+Clover Brewed Coffee - Medium Roast,Clover Brewed Coffee - Medium Roast,,,10,0,0,0,0,10,0,0,0,0,0,0,0,0,280
+Iced Coffee,Iced Coffee,,,60,0,0,0,0,10,15,0,15,0.2,0,0,0,0,120
+Iced Coffee with Milk with Nonfat Milk,Iced Coffee with Milk,Nonfat,,80,0.1,0,0,0,30,17,0,17,2,2,0,6,0,90
+Iced Coffee with Milk with 2% Milk,Iced Coffee with Milk,2% Milk,,80,1,0.5,0,5,30,17,0,17,2,2,0,6,0,90
+Iced Coffee with Milk with Whole Milk,Iced Coffee with Milk,Whole,,90,1.5,1,0,5,30,17,0,17,2,2,0,6,0,90
+Iced Coffee with Milk with Soy Milk,Iced Coffee with Milk,Soy,,80,1,0.1,0,0,25,16,0,16,2,2,0,6,2,90
+Iced Coffee with Milk with Coconut Milk,Iced Coffee with Milk,Coconut,,80,1,1,0,0,25,17,0,16,0.3,0,0,0,0,110
+Cold Brewed Coffee,Cold Brewed Coffee,,,2,0,0,0,0,10,0,0,0,0.1,0,0,0,0,150
+Vanilla Sweet Cream Cold Brew,Vanilla Sweet Cream Cold Brew,,,100,6,3.5,0.2,20,20,12,0,12,1,6,0,2,0,140
+Caffe Americano,Caffe Americano,,,10,0,0,0,0,10,2,0,0,1,0,0,2,0,150
+Iced Caffe Americano,Iced Caffe Americano,,,10,0,0,0,0,10,2,0,0,1,0,0,2,0,150
+Caffe Latte with Nonfat Milk,Caffe Latte,Nonfat,,100,0.2,0.2,0,5,120,15,0,14,10,15,0,30,0,75
+Caffe Latte with 2% Milk,Caffe Latte,2% Milk,,150,6,3.5,0.2,25,135,15,0,14,10,15,0,30,0,75
+Caffe Latte with Whole Milk,Caffe Latte,Whole,,180,9,5,0.3,30,125,15,0,14,9,15,0,30,0,75
+Caffe Latte with Soy Milk,Caffe Latte,Soy,,110,4.5,0.5,0,0,105,10,1,6,8,10,0,30,15,75
+Caffe Latte with Coconut Milk,Caffe Latte,Coconut,,110,7,6,0,0,120,11,0,10,1,0,0,0,0,75
+Iced Caffe Latte with Nonfat Milk,Iced Caffe Latte,Nonfat,,70,0.1,0.1,0,5,80,10,0,9,6,10,0,20,0,75
+Iced Caffe Latte with 2% Milk,Iced Caffe Latte,2% Milk,,100,3.5,2,0.1,15,90,10,0,9,6,10,0,20,0,75
+Iced Caffe Latte with Whole Milk,Iced Caffe Latte,Whole,,120,6,3.5,0.2,20,85,10,0,9,6,8,0,20,0,75
+Iced Caffe Latte with Soy Milk,Iced Caffe Latte,Soy,,80,3,0.4,0,0,75,7,1,4,5,8,0,20,10,75
+Iced Caffe Latte with Coconut Milk,Iced Caffe Latte,Coconut,,70,4,4,0,0,80,7,0,6,1,0,0,0,0,75
+Caffe Mocha with Nonfat Milk,Caffe Mocha,Nonfat,No Whip,190,2,1,0,5,100,32,3,27,10,15,0,30,25,95
+Caffe Mocha with Nonfat Milk and Whip,Caffe Mocha,Nonfat,Whip,250,8,5,0.2,25,110,34,3,28,11,20,0,30,25,95
+Caffe Mocha with 2% Milk,Caffe Mocha,2% Milk,No Whip,230,6,4,0.2,20,115,32,3,26,10,15,0,25,25,95
+Caffe Mocha with 2% Milk and Whip,Caffe Mocha,2% Milk,Whip,290,13,8,0.4,40,120,34,3,28,11,20,2,30,25,95
+Caffe Mocha with Whole Milk,Caffe Mocha,Whole,No Whip,250,9,6,0.2,25,105,32,3,26,10,10,0,25,25,95
+Caffe Mocha with Whole Milk and Whip,Caffe Mocha,Whole,Whip,310,16,9,0.4,45,110,34,3,28,10,20,0,25,25,95
+Caffe Mocha with Soy Milk,Caffe Mocha,Soy,No Whip,200,5,1.5,0,0,90,28,4,20,9,10,0,25,35,95
+Caffe Mocha with Soy Milk and Whip,Caffe Mocha,Soy,Whip,260,11,5,0.2,25,95,30,4,22,9,15,0,30,35,95
+Caffe Mocha with Coconut Milk,Caffe Mocha,Coconut,No Whip,190,7,6,0,0,105,29,3,23,3,0,0,2,25,95
+Caffe Mocha with Coconut Milk and Whip,Caffe Mocha,Coconut,Whip,250,13,10,0.2,25,110,30,3,25,3,6,0,2,25,95
+Iced Caffe Mocha with Nonfat Milk,Iced Caffe Mocha,Nonfat,No Whip,150,2,1,0,5,65,27,3,22,7,8,0,15,25,95
+Iced Caffe Mocha with Nonfat Milk and Whip,Iced Caffe Mocha,Nonfat,Whip,240,10,6,0.2,30,75,30,3,23,7,15,0,20,25,95
+Iced Caffe Mocha with 2% Milk,Iced Caffe Mocha,2% Milk,No Whip,180,4.5,3,0.1,10,70,27,3,21,7,8,0,15,25,95
+Iced Caffe Mocha with 2% Milk and Whip,Iced Caffe Mocha,2% Milk,Whip,260,12,8,0.4,40,80,29,3,23,7,15,0,20,25,95
+Iced Caffe Mocha with Whole Milk,Iced Caffe Mocha,Whole,No Whip,190,6,3.5,0.1,15,65,27,3,21,7,6,0,15,25,95
+Iced Caffe Mocha with Whole Milk and Whip,Iced Caffe Mocha,Whole,Whip,270,14,9,0.4,45,75,29,3,23,7,15,0,15,25,95
+Iced Caffe Mocha with Soy Milk,Iced Caffe Mocha,Soy,No Whip,160,4,1.5,0,0,60,25,3,18,6,6,0,15,30,95
+Iced Caffe Mocha with Soy Milk and Whip,Iced Caffe Mocha,Soy,Whip,240,12,6,0.2,30,65,27,3,20,7,15,0,20,30,95
+Iced Caffe Mocha with Coconut Milk,Iced Caffe Mocha,Coconut,No Whip,150,5,4,0,0,65,25,3,19,3,0,0,2,25,95
+Iced Caffe Mocha with Coconut Milk and Whip,Iced Caffe Mocha,Coconut,Whip,240,13,9,0.2,30,70,27,3,22,3,10,0,2,25,95
+Cappuccino with Nonfat Milk,Cappuccino,Nonfat,,60,0.1,0.1,0,5,70,9,0,8,6,10,0,20,0,75
+Cappuccino with 2% Milk,Cappuccino,2% Milk,,90,3.5,1.5,0.1,15,80,9,0,8,6,10,0,20,0,75
+Cappuccino with Whole Milk,Cappuccino,Whole,,110,6,3,0.2,15,75,9,0,8,6,8,0,20,0,75
+Cappuccino with Soy Milk,Cappuccino,Soy,,70,3,0.4,0,0,65,7,1,4,5,6,0,20,8,75
+Cappuccino with Coconut Milk,Cappuccino,Coconut,,100,6,6,0,0,115,11,0,9,1,0,0,0,0,75
+Caramel Macchiato with Nonfat Milk,Caramel Macchiato,Nonfat,,150,1.5,1,0,10,105,27,0,25,8,15,0,25,0,75
+Caramel Macchiato with 2% Milk,Caramel Macchiato,2% Milk,,190,6,3.5,0.2,20,120,26,0,25,8,15,0,25,0,75
+Caramel Macchiato with Whole Milk,Caramel Macchiato,Whole,,210,9,5,0.2,25,110,26,0,25,8,10,0,25,0,75
+Caramel Macchiato with Soy Milk,Caramel Macchiato,Soy,,160,4.5,1,0,5,95,22,1,19,6,10,0,25,10,75
+Caramel Macchiato with Coconut Milk,Caramel Macchiato,Coconut,,150,6,6,0,5,105,23,0,21,1,2,0,0,0,75
+Iced Caramel Macchiato with Nonfat Milk,Iced Caramel Macchiato,Nonfat,,140,1.5,1,0,10,100,26,0,24,7,15,0,25,0,75
+Iced Caramel Macchiato with 2% Milk,Iced Caramel Macchiato,2% Milk,,180,5,3.5,0.2,20,110,26,0,24,7,10,0,20,0,75
+Iced Caramel Macchiato with Whole Milk,Iced Caramel Macchiato,Whole,,200,8,4.5,0.2,25,100,26,0,24,7,10,0,20,0,75
+Iced Caramel Macchiato with Soy Milk,Iced Caramel Macchiato,Soy,,160,4.5,1.5,0,5,90,22,1,19,6,10,0,25,10,75
+Iced Caramel Macchiato with Coconut Milk,Iced Caramel Macchiato,Coconut,,140,6,5,0,5,95,23,0,21,1,2,0,0,0,75
+Cinnamon Dolce Latte with Nonfat Milk,Cinnamon Dolce Latte,Nonfat,No Whip,160,0.2,0.1,0,5,110,31,0,30,9,15,0,30,0,75
+Cinnamon Dolce Latte with Nonfat Milk and Whip,Cinnamon Dolce Latte,Nonfat,Whip,220,6,4,0.2,30,115,33,0,31,9,25,0,30,0,75
+Cinnamon Dolce Latte with 2% Milk,Cinnamon Dolce Latte,2% Milk,No Whip,200,5,2.5,0.2,20,125,30,0,29,9,15,0,30,0,75
+Cinnamon Dolce Latte with 2% Milk and Whip,Cinnamon Dolce Latte,2% Milk,Whip,270,11,6,0.3,45,130,32,0,31,9,20,2,30,0,75
+Cinnamon Dolce Latte with Whole Milk,Cinnamon Dolce Latte,Whole,No Whip,230,8,5,0.3,25,110,30,0,29,8,10,0,25,0,75
+Cinnamon Dolce Latte with Whole Milk and Whip,Cinnamon Dolce Latte,Whole,Whip,290,14,9,0.4,50,120,32,0,31,9,20,0,30,0,75
+Cinnamon Dolce Latte with Soy Milk,Cinnamon Dolce Latte,Soy,No Whip,170,4,0.5,0,0,95,26,1,23,7,10,0,30,15,75
+Cinnamon Dolce Latte with Soy Milk and Whip,Cinnamon Dolce Latte,Soy,Whip,240,10,4.5,0.2,20,100,28,1,25,8,15,0,30,15,75
+Cinnamon Dolce Latte with Coconut Milk,Cinnamon Dolce Latte,Coconut,No Whip,160,6,6,0,0,110,27,0,26,1,0,0,0,0,75
+Cinnamon Dolce Latte with Coconut Milk and Whip,Cinnamon Dolce Latte,Coconut,Whip,230,12,9,0.2,20,115,29,0,28,1,6,0,2,0,75
+Flat White with Nonfat Milk,Flat White,Nonfat,,100,0.2,0.2,0,5,115,15,0,13,10,15,0,30,0,130
+Flat White with 2% Milk,Flat White,2% Milk,,140,5,3.5,0.2,20,130,14,0,13,9,15,0,30,0,130
+Flat White with Whole Milk,Flat White,Whole,,170,9,5,0.3,25,115,14,0,13,9,15,0,30,0,130
+Flat White with Soy Milk,Flat White,Soy,,110,4,0.5,0,0,100,10,1,6,8,10,0,30,15,130
+Flat White with Coconut Milk,Flat White,Coconut,,100,6,6,0,0,110,11,0,9,1,0,0,0,0,130
+Latte Macchiato with Nonfat Milk,Latte Macchiato,Nonfat,,100,0.2,0.2,0,5,115,15,0,13,10,15,0,30,0,150
+Latte Macchiato with 2% Milk,Latte Macchiato,2% Milk,,140,5,3.5,0.2,20,130,15,0,13,9,15,0,30,0,150
+Latte Macchiato with Whole Milk,Latte Macchiato,Whole,,170,9,5,0.3,25,115,15,0,13,9,15,0,30,0,150
+Latte Macchiato with Soy Milk,Latte Macchiato,Soy,,110,4,0.5,0,0,100,10,1,6,8,10,0,30,15,150
+Latte Macchiato with Coconut Milk,Latte Macchiato,Coconut,,100,6,6,0,0,110,11,0,9,1,0,0,0,0,150
+Skinny Cinnamon Dolce Latte with Nonfat Milk,Skinny Cinnamon Dolce Latte,Nonfat,,100,0.2,0.1,0,5,125,14,0,13,9,15,0,30,0,75
+Iced Skinny Cinnamon Dolce Latte with Nonfat Milk,Iced Skinny Cinnamon Dolce Latte,Nonfat,,60,0.1,0.1,0,5,80,9,0,8,6,10,0,20,0,75
+Skinny Mocha with Nonfat Milk,Skinny Mocha,Nonfat,,130,1,1,0.1,5,115,18,3,12,11,15,0,30,45,75
+Iced Skinny Mocha with Nonfat Milk,Iced Skinny Mocha,Nonfat,,90,1,0.5,0.1,5,75,13,3,7,7,8,0,15,45,75
+Starbucks Doubleshot on Ice with Nonfat Milk,Starbucks Doubleshot on Ice,Nonfat,,70,0,0,0,0,35,14,0,13,3,4,0,8,0,150
+Starbucks Doubleshot on Ice with 2% Milk,Starbucks Doubleshot on Ice,2% Milk,,80,1,1,0.1,5,35,14,0,13,3,4,0,8,0,150
+Starbucks Doubleshot on Ice with Whole Milk,Starbucks Doubleshot on Ice,Whole,,90,2,1,0.1,5,35,14,0,13,2,2,0,8,0,150
+Starbucks Doubleshot on Ice with Soy Milk,Starbucks Doubleshot on Ice,Soy,,70,1,0.1,0,0,30,13,0,11,2,2,0,8,4,150
+Starbucks Doubleshot on Ice with Coconut Milk,Starbucks Doubleshot on Ice,Coconut,,70,1.5,1.5,0,0,30,13,0,12,1,0,0,0,0,150
+White Chocolate Mocha with Nonfat Milk,White Chocolate Mocha,Nonfat,No Whip,270,4.5,3.5,0,10,180,46,0,45,11,15,2,35,0,75
+White Chocolate Mocha with Nonfat Milk and Whip,White Chocolate Mocha,Nonfat,Whip,330,10,7,0.2,30,190,48,0,46,12,20,2,35,0,75
+White Chocolate Mocha with 2% Milk,White Chocolate Mocha,2% Milk,No Whip,300,9,6,0.1,25,190,46,0,44,11,15,2,35,0,75
+White Chocolate Mocha with 2% Milk and Whip,White Chocolate Mocha,2% Milk,Whip,370,15,10,0.3,45,200,47,0,46,11,20,2,35,0,75
+White Chocolate Mocha with Whole Milk,White Chocolate Mocha,Whole,No Whip,330,12,8,0.2,30,180,46,0,44,11,10,2,35,0,75
+White Chocolate Mocha with Whole Milk and Whip,White Chocolate Mocha,Whole,Whip,390,18,12,0.4,50,190,47,0,46,11,20,2,35,0,75
+White Chocolate Mocha with Soy Milk,White Chocolate Mocha,Soy,No Whip,280,8,4,0,5,170,41,1,38,10,10,2,35,10,75
+White Chocolate Mocha with Soy Milk and Whip,White Chocolate Mocha,Soy,Whip,340,14,8,0.2,25,170,43,1,40,10,15,2,35,10,75
+White Chocolate Mocha with Coconut Milk,White Chocolate Mocha,Coconut,No Whip,270,10,9,0,5,180,42,0,41,4,0,2,10,0,75
+White Chocolate Mocha with Coconut Milk and Whip,White Chocolate Mocha,Coconut,Whip,330,16,12,0.2,25,180,44,0,43,4,6,2,10,0,75
+Iced White Chocolate Mocha with Nonfat Milk,Iced White Chocolate Mocha,Nonfat,No Whip,230,4.5,3.5,0,5,135,41,0,40,8,8,2,25,0,75
+Iced White Chocolate Mocha with Nonfat Milk and Whip,Iced White Chocolate Mocha,Nonfat,Whip,310,12,8,0.2,35,150,43,0,41,8,15,2,25,0,75
+Iced White Chocolate Mocha with 2% Milk,Iced White Chocolate Mocha,2% Milk,No Whip,250,7,5,0.1,15,140,41,0,39,8,8,2,25,0,75
+Iced White Chocolate Mocha with 2% Milk and Whip,Iced White Chocolate Mocha,2% Milk,Whip,330,15,10,0.3,45,150,43,0,41,8,15,2,25,0,75
+Iced White Chocolate Mocha with Whole Milk,Iced White Chocolate Mocha,Whole,No Whip,270,9,6,0.1,15,140,41,0,39,7,6,2,25,0,75
+Iced White Chocolate Mocha with Whole Milk and Whip,Iced White Chocolate Mocha,Whole,Whip,350,17,11,0.4,45,150,43,0,41,8,15,2,25,0,75
+Iced White Chocolate Mocha with Soy Milk,Iced White Chocolate Mocha,Soy,No Whip,240,6,3.5,0,5,130,38,1,36,7,6,2,25,8,75
+Iced White Chocolate Mocha with Soy Milk and Whip,Iced White Chocolate Mocha,Soy,Whip,320,14,9,0.2,35,140,41,1,38,7,15,2,25,8,75
+Iced White Chocolate Mocha with Coconut Milk,Iced White Chocolate Mocha,Coconut,No Whip,230,7,6,0,5,135,39,0,37,3,0,2,10,0,75
+Iced White Chocolate Mocha with Coconut Milk and Whip,Iced White Chocolate Mocha,Coconut,Whip,310,15,11,0.2,35,140,41,0,39,4,10,2,10,0,75
+Iced Black Tea,Iced Black Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20-25
+Iced Black Tea Lemonade,Iced Black Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20-25
+Chai Tea Latte with Nonfat Milk,Chai Tea Latte,Nonfat,,160,0.2,0.1,0,5,80,34,0,32,6,10,0,20,2,70
+Chai Tea Latte with 2% Milk,Chai Tea Latte,2% Milk,,190,3.5,1.5,0.1,15,90,34,0,32,6,10,0,20,2,70
+Chai Tea Latte with Whole Milk,Chai Tea Latte,Whole,,200,6,3,0.2,15,80,34,0,32,6,8,0,20,2,70
+Chai Tea Latte with Soy Milk,Chai Tea Latte,Soy,,160,2.5,0.3,0,0,70,31,1,28,5,6,0,20,10,70
+Chai Tea Latte with Coconut Milk,Chai Tea Latte,Coconut,,160,3.5,3.5,0,0,75,31,0,29,1,0,0,0,2,70
+Iced Chai Tea Latte with Nonfat Milk,Iced Chai Tea Latte,Nonfat,,150,0.2,0.1,0,5,75,33,0,31,6,10,0,20,2,70
+Iced Chai Tea Latte with 2% Milk,Iced Chai Tea Latte,2% Milk,,180,3,1.5,0.1,10,80,33,0,31,5,8,0,15,2,70
+Iced Chai Tea Latte with Whole Milk,Iced Chai Tea Latte,Whole,,190,5,3,0.1,15,75,33,0,31,5,8,0,15,2,70
+Iced Chai Tea Latte with Soy Milk,Iced Chai Tea Latte,Soy,,160,2.5,0.3,0,0,70,30,1,27,5,6,0,20,8,70
+Iced Chai Tea Latte with Coconut Milk,Iced Chai Tea Latte,Coconut,,150,3.5,3,0,0,70,31,0,29,1,0,0,0,2,70
+Earl Grey Brewed Tea,Earl Grey Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40+
+Emperor's Clouds and Mist Brewed Tea,Emperor's Clouds and Mist Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
+English Breakfast Black Brewed Tea,English Breakfast Black Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40+
+English Breakfast Black Tea Latte with Nonfat Milk,English Breakfast Black Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40+
+English Breakfast Black Tea Latte with 2% Milk,English Breakfast Black Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40+
+English Breakfast Black Tea Latte with Whole Milk,English Breakfast Black Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40+
+English Breakfast Black Tea Latte with Soy Milk,English Breakfast Black Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40+
+English Breakfast Black Tea Latte with Coconut Milk,English Breakfast Black Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40+
+Green Tea Latte with Nonfat Milk,Green Tea Latte,Nonfat,,140,0.3,0.2,0,5,115,25,1,24,10,20,10,30,4,55
+Green Tea Latte with 2% Milk,Green Tea Latte,2% Milk,,190,5,3.5,0.2,20,125,25,1,24,10,15,10,30,2,55
+Green Tea Latte with Whole Milk,Green Tea Latte,Whole,,220,9,5,0.3,25,115,25,1,24,9,15,10,30,4,55
+Green Tea Latte with Soy Milk,Green Tea Latte,Soy,,160,4.5,0.5,0,0,105,20,2,17,8,10,10,30,15,55
+Green Tea Latte with Coconut Milk,Green Tea Latte,Coconut,,140,6,6,0,0,105,21,1,19,1,2,10,0,2,55
+Iced Green Tea Latte with Nonfat Milk,Iced Green Tea Latte,Nonfat,,120,0.3,0.1,0,5,95,22,1,21,8,15,10,25,4,55
+Iced Green Tea Latte with 2% Milk,Iced Green Tea Latte,2% Milk,,160,4.5,2.5,0.2,15,105,22,1,21,8,15,10,25,2,55
+Iced Green Tea Latte with Whole Milk,Iced Green Tea Latte,Whole,,180,7,4,0.2,20,95,22,1,21,7,10,10,25,4,55
+Iced Green Tea Latte with Soy Milk,Iced Green Tea Latte,Soy,,140,3.5,0.5,0,0,85,18,2,16,7,10,10,25,15,55
+Iced Green Tea Latte with Coconut Milk,Iced Green Tea Latte,Coconut,,120,4.5,4.5,0,0,90,19,1,18,1,2,10,2,2,55
+Iced Green Tea,Iced Green Tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,20-25
+Iced Green Tea Lemonade,Iced Green Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,20-25
+Jade Citrus Mint Brewed Tea,Jade Citrus Mint Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16-25
+London Fog Tea Latte with Nonfat Milk,London Fog Tea Latte,Nonfat,,110,0.1,0.1,0,5,70,23,0,23,5,10,0,20,0,40+
+London Fog Tea Latte with 2% Milk,London Fog Tea Latte,2% Milk,,140,3,2,0.1,15,80,23,0,23,5,8,0,20,0,40+
+London Fog Tea Latte with Whole Milk,London Fog Tea Latte,Whole,,160,5,3,0.2,15,75,23,0,23,5,8,0,15,0,40+
+London Fog Tea Latte with Soy Milk,London Fog Tea Latte,Soy,,120,2.5,0.3,0,0,60,20,1,18,4,6,0,20,8,40+
+London Fog Tea Latte with Coconut Milk,London Fog Tea Latte,Coconut,,120,3.5,3.5,0,0,70,20,0,20,0.4,0,0,0,0,40+
+Iced Mango Black Tea,Iced Mango Black Tea,,,60,0.1,0,0,0,10,14,0,14,0,0,0,0,0,20-25
+Iced Mango Black Tea Lemonade,Iced Mango Black Tea Lemonade,,,90,0.1,0,0,0,5,24,0,23,0.1,0,10,0,0,20-25
+Mint Majesty Brewed Tea,Mint Majesty Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oprah Chai Herbal Brewed Tea,Oprah Chai Herbal Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oprah Cinnamon Chai Brewed Tea,Oprah Cinnamon Chai Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
+Oprah Cinnamon Chai Latte with Nonfat Milk,Oprah Cinnamon Chai Latte,Nonfat,,130,0.1,0.1,0,5,70,25,0,23,5,10,0,20,0,40
+Oprah Cinnamon Chai Latte with 2% Milk,Oprah Cinnamon Chai Latte,2% Milk,,150,3,2,0.1,15,80,25,0,23,5,8,0,20,0,40
+Oprah Cinnamon Chai Latte with Whole Milk,Oprah Cinnamon Chai Latte,Whole,,170,5,3,0.2,15,70,25,0,23,5,8,0,15,0,40
+Oprah Cinnamon Chai Latte with Soy Milk,Oprah Cinnamon Chai Latte,Soy,,130,2.5,0.3,0,0,60,22,1,19,4,6,0,20,8,40
+Oprah Cinnamon Chai Latte with Coconut Milk,Oprah Cinnamon Chai Latte,Coconut,,130,3.5,3.5,0,0,70,22,0,21,0.4,0,0,0,0,40
+Iced Oprah Cinnamon Chai Latte with Nonfat Milk,Iced Oprah Cinnamon Chai Latte,Nonfat,,120,0.1,0.1,0,5,70,24,0,23,5,10,0,15,0,40
+Iced Oprah Cinnamon Chai Latte with 2% Milk,Iced Oprah Cinnamon Chai Latte,2% Milk,,150,3,2,0.1,10,75,24,0,23,5,8,0,15,0,40
+Iced Oprah Cinnamon Chai Latte with Whole Milk,Iced Oprah Cinnamon Chai Latte,Whole,,160,5,3,0.1,15,70,24,0,23,5,8,0,15,0,40
+Iced Oprah Cinnamon Chai Latte with Soy Milk,Iced Oprah Cinnamon Chai Latte,Soy,,130,2.5,0.3,0,0,65,22,1,19,4,6,0,20,8,40
+Iced Oprah Cinnamon Chai Latte with Coconut Milk,Iced Oprah Cinnamon Chai Latte,Coconut,,120,3.5,3,0,0,65,22,0,20,0.3,0,0,0,0,40
+Passion Tango Brewed Tea,Passion Tango Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iced Passion Tango tea,Iced Passion Tango tea,,,60,0,0,0,0,5,15,0,15,0,0,0,0,0,0
+Iced Passion Tango Tea Lemonade,Iced Passion Tango Tea Lemonade,,,90,0,0,0,0,5,24,0,24,0.1,0,10,0,0,0
+Peach Iced Green Tea,Peach Iced Green Tea,,,60,0.1,0,0,0,0,15,0,15,0,0,0,0,0,20-25
+Peach Iced Green Tea Lemonade,Peach Iced Green Tea Lemonade,,,100,0.1,0,0,0,0,25,0,24,0.1,0,10,0,0,20-25
+Peach Tranquility Brewed Tea,Peach Tranquility Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Youthberry Brewed Tea,Youthberry Brewed Tea,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1--15
+Cool Lime Starbucks Refreshers??Beverage,Cool Lime Starbucks Refreshers??Beverage,,,60,0,0,0,0,2,14,0,14,0.1,0,90,0,0,35-45
+Very Berry Hibiscus Starbucks Refreshers??Beverage,Very Berry Hibiscus Starbucks Refreshers??Beverage,,,70,0.1,0,0,0,2,18,1,15,0.1,0,90,0,2,35-45
+Caffe Vanilla Frappuccino Blended Beverage with Nonfat Milk,Caffe Vanilla Frappuccino Blended Beverage,Nonfat,No Whip,200,0.1,0.1,0,0,150,47,0,46,3,4,0,8,0,65
+Caffe Vanilla Frappuccino Blended Beverage with Nonfat Milk and Whip,Caffe Vanilla Frappuccino Blended Beverage,Nonfat,Whip,280,8,5,0.2,30,160,50,0,48,3,15,0,10,0,65
+Caffe Vanilla Frappuccino Blended Beverage with 2% Milk,Caffe Vanilla Frappuccino Blended Beverage,2% Milk,No Whip,210,1.5,1,0,5,160,47,0,46,3,4,0,8,0,65
+Caffe Vanilla Frappuccino Blended Beverage with 2% Milk and Whip,Caffe Vanilla Frappuccino Blended Beverage,2% Milk,Whip,290,10,6,0.3,35,170,50,0,48,3,15,0,10,0,65
+Caffe Vanilla Frappuccino Blended Beverage with Whole Milk,Caffe Vanilla Frappuccino Blended Beverage,Whole,No Whip,220,2.5,1.5,0.1,10,150,47,0,46,3,4,0,8,0,65
+Caffe Vanilla Frappuccino Blended Beverage with Whole Milk and Whip,Caffe Vanilla Frappuccino Blended Beverage,Whole,Whip,300,11,6,0.3,35,160,50,0,48,3,15,0,10,0,65
+Caffe Vanilla Frappuccino Blended Beverage with Soy Milk,Caffe Vanilla Frappuccino Blended Beverage,Soy,No Whip,200,1.5,0.2,0,0,150,46,0,44,2,4,0,10,4,65
+Caffe Vanilla Frappuccino Blended Beverage with Soy Milk and Whip,Caffe Vanilla Frappuccino Blended Beverage,Soy,Whip,290,9,5,0.2,30,160,48,0,46,3,10,0,10,4,65
+Caffe Vanilla Frappuccino Blended Beverage with Coconut Milk,Caffe Vanilla Frappuccino Blended Beverage,Coconut,No Whip,200,1.5,1.5,0,0,150,47,0,45,0.4,0,0,0,0,65
+Caffe Vanilla Frappuccino Blended Beverage with Coconut Milk and Whip,Caffe Vanilla Frappuccino Blended Beverage,Coconut,Whip,280,10,7,0.2,30,160,49,0,47,1,10,0,2,0,65
+Caramel Frappuccino Blended Beverage with Nonfat Milk,Caramel Frappuccino Blended Beverage,Nonfat,No Whip,180,0.1,0,0,0,160,42,0,42,3,4,0,10,0,70
+Caramel Frappuccino Blended Beverage with Nonfat Milk and Whip,Caramel Frappuccino Blended Beverage,Nonfat,Whip,280,9,5,0.2,35,180,47,0,47,3,15,0,10,0,70
+Caramel Frappuccino Blended Beverage with 2% Milk,Caramel Frappuccino Blended Beverage,2% Milk,No Whip,190,1.5,1,0.1,5,170,42,0,42,3,4,0,10,0,70
+Caramel Frappuccino Blended Beverage with 2% Milk and Whip,Caramel Frappuccino Blended Beverage,2% Milk,Whip,290,10,6,0.3,40,180,47,0,46,3,15,0,10,0,70
+Caramel Frappuccino Blended Beverage with Whole Milk,Caramel Frappuccino Blended Beverage,Whole,No Whip,200,2.5,1.5,0.1,10,160,42,0,42,3,4,0,8,0,70
+Caramel Frappuccino Blended Beverage with Whole Milk and Whip,Caramel Frappuccino Blended Beverage,Whole,Whip,300,11,7,0.3,40,180,47,0,46,3,15,0,10,0,70
+Caramel Frappuccino Blended Beverage with Soy Milk,Caramel Frappuccino Blended Beverage,Soy,No Whip,190,1.5,0.2,0,0,160,41,0,40,2,4,0,10,4,70
+Caramel Frappuccino Blended Beverage with Soy Milk and Whip,Caramel Frappuccino Blended Beverage,Soy,Whip,280,10,6,0.2,30,170,46,0,45,3,15,0,10,4,70
+Caramel Frappuccino Blended Beverage with Coconut Milk,Caramel Frappuccino Blended Beverage,Coconut,No Whip,180,2,1.5,0,0,160,41,0,40,0.4,0,0,0,0,70
+Caramel Frappuccino Blended Beverage with Coconut Milk and Whip,Caramel Frappuccino Blended Beverage,Coconut,Whip,280,10,7,0.2,30,170,46,0,45,1,10,0,2,0,70
+Coffee Frappuccino Blended Beverage with Nonfat Milk,Coffee Frappuccino Blended Beverage,Nonfat,,160,0.1,0,0,0,160,36,0,36,3,4,0,10,0,70
+Coffee Frappuccino Blended Beverage with 2% Milk,Coffee Frappuccino Blended Beverage,2% Milk,,170,1.5,1,0,5,160,36,0,36,3,4,0,8,0,70
+Coffee Frappuccino Blended Beverage with Whole Milk,Coffee Frappuccino Blended Beverage,Whole,,180,2.5,1.5,0.1,10,160,36,0,36,3,4,0,8,0,70
+Coffee Frappuccino Blended Beverage with Soy Milk,Coffee Frappuccino Blended Beverage,Soy,,160,1.5,0.2,0,0,150,35,0,34,2,4,0,10,4,70
+Coffee Frappuccino Blended Beverage with Coconut Milk,Coffee Frappuccino Blended Beverage,Coconut,,160,2,1.5,0,0,150,36,0,35,0.4,0,0,0,0,70
+Espresso Frappuccino Blended Beverage with Nonfat Milk,Espresso Frappuccino Blended Beverage,Nonfat,,150,0,0,0,0,135,34,0,33,2,2,0,6,0,130
+Espresso Frappuccino Blended Beverage with 2% Milk,Espresso Frappuccino Blended Beverage,2% Milk,,150,1,0.5,0,5,140,34,0,33,2,2,0,6,0,130
+Espresso Frappuccino Blended Beverage with Whole Milk,Espresso Frappuccino Blended Beverage,Whole,,160,1.5,1,0,5,140,34,0,33,2,2,0,6,0,130
+Espresso Frappuccino Blended Beverage with Soy Milk,Espresso Frappuccino Blended Beverage,Soy,,150,1,0.1,0,0,135,33,0,31,2,2,0,6,2,130
+Espresso Frappuccino Blended Beverage with Coconut Milk,Espresso Frappuccino Blended Beverage,Coconut,,150,1,1,0,0,135,34,0,32,1,0,0,0,0,130
+Java Chip Frappuccino Blended Beverage with Nonfat Milk,Java Chip Frappuccino Blended Beverage,Nonfat,No Whip,230,3,2,0,0,180,47,2,44,4,4,0,10,20,75
+Java Chip Frappuccino Blended Beverage with Nonfat Milk and Whip,Java Chip Frappuccino Blended Beverage,Nonfat,Whip,320,11,7,0.3,30,190,51,2,47,4,15,0,10,20,75
+Java Chip Frappuccino Blended Beverage with 2% Milk,Java Chip Frappuccino Blended Beverage,2% Milk,No Whip,240,4.5,3,0.1,5,180,47,2,44,4,4,0,10,20,75
+Java Chip Frappuccino Blended Beverage with 2% Milk and Whip,Java Chip Frappuccino Blended Beverage,2% Milk,Whip,330,12,8,0.3,35,190,51,2,47,4,15,0,10,20,75
+Java Chip Frappuccino Blended Beverage with Whole Milk,Java Chip Frappuccino Blended Beverage,Whole,No Whip,250,5,3.5,0.1,10,180,47,2,44,4,4,0,10,20,75
+Java Chip Frappuccino Blended Beverage with Whole Milk and Whip,Java Chip Frappuccino Blended Beverage,Whole,Whip,340,13,9,0.3,35,190,51,2,47,4,15,0,10,20,75
+Java Chip Frappuccino Blended Beverage with Soy Milk,Java Chip Frappuccino Blended Beverage,Soy,No Whip,230,4,2.5,0,0,180,46,2,42,3,4,0,10,25,75
+Java Chip Frappuccino Blended Beverage with Soy Milk and Whip,Java Chip Frappuccino Blended Beverage,Soy,Whip,320,12,7,0.3,30,180,50,2,45,4,10,0,10,25,75
+Java Chip Frappuccino Blended Beverage with Coconut Milk,Java Chip Frappuccino Blended Beverage,Coconut,No Whip,230,4.5,3.5,0,0,180,46,2,43,1,0,0,2,20,75
+Java Chip Frappuccino Blended Beverage with Coconut Milk and Whip,Java Chip Frappuccino Blended Beverage,Coconut,Whip,320,13,9,0.3,30,180,50,2,46,2,10,0,2,20,75
+Mocha Frappuccino Blended Beverage with Nonfat Milk,Mocha Frappuccino Blended Beverage,Nonfat,No Whip,190,0.5,0.4,0,0,160,42,1,40,3,4,0,10,8,75
+Mocha Frappuccino Blended Beverage with Nonfat Milk and Whip,Mocha Frappuccino Blended Beverage,Nonfat,Whip,270,9,5,0.2,30,170,45,1,42,4,15,0,10,8,75
+Mocha Frappuccino Blended Beverage with 2% Milk,Mocha Frappuccino Blended Beverage,2% Milk,No Whip,200,2,1.5,0.1,5,160,42,1,40,3,4,0,10,8,75
+Mocha Frappuccino Blended Beverage with 2% Milk and Whip,Mocha Frappuccino Blended Beverage,2% Milk,Whip,280,10,6,0.3,35,170,44,1,42,4,15,0,10,8,75
+Mocha Frappuccino Blended Beverage with Whole Milk,Mocha Frappuccino Blended Beverage,Whole,No Whip,210,3,2,0.1,10,160,42,1,40,3,4,0,10,8,75
+Mocha Frappuccino Blended Beverage with Whole Milk and Whip,Mocha Frappuccino Blended Beverage,Whole,Whip,290,11,7,0.3,35,170,44,1,42,4,15,0,10,8,75
+Mocha Frappuccino Blended Beverage with Soy Milk,Mocha Frappuccino Blended Beverage,Soy,No Whip,190,2,0.5,0,0,160,41,1,38,3,4,0,10,10,75
+Mocha Frappuccino Blended Beverage with Soy Milk and Whip,Mocha Frappuccino Blended Beverage,Soy,Whip,270,10,5,0.2,30,160,43,1,40,3,10,0,10,10,75
+Mocha Frappuccino Blended Beverage with Coconut Milk,Mocha Frappuccino Blended Beverage,Coconut,No Whip,190,2,2,0,0,160,41,1,39,1,0,0,0,8,75
+Mocha Frappuccino Blended Beverage with Coconut Milk and Whip,Mocha Frappuccino Blended Beverage,Coconut,Whip,270,10,7,0.2,30,160,43,1,41,1,10,0,2,8,75
+Caffe Vanilla Frappuccino Light Blended Beverage with Nonfat Milk,Caffe Vanilla Frappuccino Light Blended Beverage,Nonfat,,140,0.1,0.1,0,0,150,31,0,30,3,4,0,8,0,65
+Caramel Frappuccino Light Blended Beverage with Nonfat Milk,Caramel Frappuccino Light Blended Beverage,Nonfat,,100,0.1,0,0,0,140,23,0,23,3,4,0,8,0,65
+Coffee Frappuccino Light Blended Beverage with Nonfat Milk,Coffee Frappuccino Light Blended Beverage,Nonfat,,90,0.1,0,0,0,160,20,0,19,3,4,0,10,0,70
+Espresso Frappuccino Light Blended Beverage with Nonfat Milk,Espresso Frappuccino Light Blended Beverage,Nonfat,,80,0,0,0,0,130,17,0,16,2,2,0,6,0,125
+Java Chip Light Frappuccino Blended Beverage with Nonfat Milk,Java Chip Light Frappuccino Blended Beverage,Nonfat,,160,3,2,0,0,170,30,2,27,4,4,0,10,20,75
+Mocha Light Frappuccino Blended Beverage with Nonfat Milk,Mocha Light Frappuccino Blended Beverage,Nonfat,,120,0.5,0.4,0,0,150,24,1,23,3,4,0,10,8,70
+Blended Strawberry Lemonade,Blended Strawberry Lemonade,,,160,0.1,0,0,0,120,40,0,39,0.2,0,15,2,2,0
+Chai Creme Frappuccino Blended Beverage with Nonfat Milk,Chai Creme Frappuccino Blended Beverage,Nonfat,No Whip,140,0.1,0.1,0,0,150,33,0,32,4,6,0,10,0,20
+Chai Creme Frappuccino Blended Beverage with Nonfat Milk and Whip,Chai Creme Frappuccino Blended Beverage,Nonfat,Whip,230,8,5,0.2,30,160,35,0,34,4,15,0,15,0,20
+Chai Creme Frappuccino Blended Beverage with 2% Milk,Chai Creme Frappuccino Blended Beverage,2% Milk,No Whip,160,2,1,0.1,10,160,32,0,32,3,6,0,10,0,20
+Chai Creme Frappuccino Blended Beverage with 2% Milk and Whip,Chai Creme Frappuccino Blended Beverage,2% Milk,Whip,240,10,6,0.3,40,170,35,0,34,4,15,0,15,0,20
+Chai Creme Frappuccino Blended Beverage with Whole Milk,Chai Creme Frappuccino Blended Beverage,Whole,No Whip,170,3.5,2,0.1,10,150,32,0,32,3,4,0,10,0,20
+Chai Creme Frappuccino Blended Beverage with Whole Milk and Whip,Chai Creme Frappuccino Blended Beverage,Whole,Whip,250,11,7,0.3,40,160,35,0,34,4,15,0,10,0,20
+Chai Creme Frappuccino Blended Beverage with Soy Milk,Chai Creme Frappuccino Blended Beverage,Soy,No Whip,150,1.5,0.2,0,0,150,31,0,29,3,4,0,10,6,20
+Chai Creme Frappuccino Blended Beverage with Soy Milk and Whip,Chai Creme Frappuccino Blended Beverage,Soy,Whip,230,10,5,0.2,30,160,33,1,31,3,15,0,15,6,20
+Chai Creme Frappuccino Blended Beverage with Coconut Milk,Chai Creme Frappuccino Blended Beverage,Coconut,No Whip,140,2,2,0,0,150,31,0,30,0.3,0,0,0,0,20
+Chai Creme Frappuccino Blended Beverage with Coconut Milk and Whip,Chai Creme Frappuccino Blended Beverage,Coconut,Whip,220,10,7,0.2,30,160,33,0,32,1,10,0,2,0,20
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Nonfat Milk,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Nonfat,No Whip,200,3,2.5,0,0,190,39,2,36,5,6,0,15,20,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Nonfat Milk and Whip,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Nonfat,Whip,280,11,7,0.3,30,200,42,2,39,5,15,0,15,25,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with 2% Milk,Double Chocolaty Chip Creme Frappuccino Blended Beverage,2% Milk,No Whip,210,5,3.5,0.1,10,190,38,2,35,5,6,0,15,20,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with 2% Milk and Whip,Double Chocolaty Chip Creme Frappuccino Blended Beverage,2% Milk,Whip,300,13,9,0.3,40,200,42,2,38,5,15,0,15,25,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Whole Milk,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Whole,No Whip,220,6,4,0.1,10,190,38,2,35,4,6,0,10,20,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Whole Milk and Whip,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Whole,Whip,310,14,9,0.4,40,200,42,2,38,5,15,0,15,25,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Soy Milk,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Soy,No Whip,200,4.5,2.5,0,0,180,37,2,33,4,4,0,15,25,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Soy Milk and Whip,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Soy,Whip,290,13,7,0.3,30,190,40,2,36,5,15,0,15,30,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Coconut Milk,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Coconut,No Whip,200,5,4.5,0,0,190,37,2,34,1,0,0,2,20,10
+Double Chocolaty Chip Creme Frappuccino Blended Beverage with Coconut Milk and Whip,Double Chocolaty Chip Creme Frappuccino Blended Beverage,Coconut,Whip,280,13,9,0.3,30,190,41,2,37,2,10,0,2,20,10
+Green Tea Creme Frappuccino Blended Beverage with Nonfat Milk,Green Tea Creme Frappuccino Blended Beverage,Nonfat,No Whip,210,0.2,0.1,0,0,170,47,1,46,4,6,10,15,2,50
+Green Tea Creme Frappuccino Blended Beverage with Nonfat Milk and Whip,Green Tea Creme Frappuccino Blended Beverage,Nonfat,Whip,290,8,5,0.2,30,170,50,1,48,5,15,10,15,2,50
+Green Tea Creme Frappuccino Blended Beverage with 2% Milk,Green Tea Creme Frappuccino Blended Beverage,2% Milk,No Whip,230,2.5,1.5,0.1,10,170,47,1,46,4,6,10,15,2,50
+Green Tea Creme Frappuccino Blended Beverage with 2% Milk and Whip,Green Tea Creme Frappuccino Blended Beverage,2% Milk,Whip,310,10,6,0.3,40,180,50,1,48,5,15,10,15,2,50
+Green Tea Creme Frappuccino Blended Beverage with Whole Milk,Green Tea Creme Frappuccino Blended Beverage,Whole,No Whip,240,3.5,2,0.1,10,170,47,1,46,4,6,10,10,2,50
+Green Tea Creme Frappuccino Blended Beverage with Whole Milk and Whip,Green Tea Creme Frappuccino Blended Beverage,Whole,Whip,320,12,7,0.3,40,180,50,1,48,5,15,10,15,2,50
+Green Tea Creme Frappuccino Blended Beverage with Soy Milk,Green Tea Creme Frappuccino Blended Beverage,Soy,No Whip,220,2,0.2,0,0,160,46,1,44,4,4,10,15,8,50
+Green Tea Creme Frappuccino Blended Beverage with Soy Milk and Whip,Green Tea Creme Frappuccino Blended Beverage,Soy,Whip,300,10,5,0.2,30,170,48,1,45,4,15,10,15,8,50
+Green Tea Creme Frappuccino Blended Beverage with Coconut Milk,Green Tea Creme Frappuccino Blended Beverage,Coconut,No Whip,210,2.5,2.5,0,0,160,46,1,44,1,0,10,2,2,50
+Green Tea Creme Frappuccino Blended Beverage with Coconut Milk and Whip,Green Tea Creme Frappuccino Blended Beverage,Coconut,Whip,290,10,7,0.2,30,170,48,1,47,1,10,10,2,2,50
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Nonfat Milk,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Nonfat,No Whip,140,0.1,0,0,0,135,30,0,30,3,6,0,10,0,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Nonfat Milk and Whip,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Nonfat,Whip,220,8,5,0.2,30,140,33,0,32,3,15,0,10,0,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with 2% Milk,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,2% Milk,No Whip,150,2,1,0.1,5,140,30,0,29,3,4,0,10,0,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with 2% Milk and Whip,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,2% Milk,Whip,230,10,6,0.3,35,150,33,0,32,3,15,0,10,0,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Whole Milk,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Whole,No Whip,160,3,1.5,0.1,10,135,30,0,29,3,4,0,10,0,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Whole Milk and Whip,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Whole,Whip,240,11,7,0.3,40,140,33,0,32,3,15,0,10,0,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Soy Milk,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Soy,No Whip,140,1.5,0.2,0,0,130,29,0,27,2,4,0,10,4,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Soy Milk and Whip,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Soy,Whip,220,9,5,0.2,30,140,31,0,30,3,15,0,10,4,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Coconut Milk,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Coconut,No Whip,140,2,2,0,0,135,29,0,28,0.2,0,0,0,0,20
+Oprah Cinnamon Chai Creme Frappuccino Blended Beverage with Coconut Milk and Whip,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage,Coconut,Whip,220,10,7,0.2,30,140,31,0,30,1,10,0,2,0,20
+Strawberries & Creme Frappuccino Blended Beverage with Nonfat Milk,Strawberries & Creme Frappuccino Blended Beverage,Nonfat,No Whip,170,0.1,0.1,0,0,140,38,0,37,3,6,6,10,2,0
+Strawberries & Creme Frappuccino Blended Beverage with Nonfat Milk and Whip,Strawberries & Creme Frappuccino Blended Beverage,Nonfat,Whip,250,8,5,0.2,30,150,41,0,39,4,15,6,15,2,0
+Strawberries & Creme Frappuccino Blended Beverage with 2% Milk,Strawberries & Creme Frappuccino Blended Beverage,2% Milk,No Whip,180,2,1,0.1,5,150,38,0,37,3,6,6,10,2,0
+Strawberries & Creme Frappuccino Blended Beverage with 2% Milk and Whip,Strawberries & Creme Frappuccino Blended Beverage,2% Milk,Whip,260,10,6,0.3,35,160,40,0,39,4,15,6,15,2,0
+Strawberries & Creme Frappuccino Blended Beverage with Whole Milk,Strawberries & Creme Frappuccino Blended Beverage,Whole,No Whip,190,3,1.5,0.1,10,140,38,0,37,3,4,6,10,2,0
+Strawberries & Creme Frappuccino Blended Beverage with Whole Milk and Whip,Strawberries & Creme Frappuccino Blended Beverage,Whole,Whip,270,11,7,0.3,40,150,40,0,39,3,15,6,10,2,0
+Strawberries & Creme Frappuccino Blended Beverage with Soy Milk,Strawberries & Creme Frappuccino Blended Beverage,Soy,No Whip,170,1.5,0.2,0,0,140,37,1,35,3,4,6,10,6,0
+Strawberries & Creme Frappuccino Blended Beverage with Soy Milk and Whip,Strawberries & Creme Frappuccino Blended Beverage,Soy,Whip,250,9,5,0.2,30,150,39,1,37,3,15,6,15,6,0
+Strawberries & Creme Frappuccino Blended Beverage with Coconut Milk,Strawberries & Creme Frappuccino Blended Beverage,Coconut,No Whip,170,2,2,0,0,140,37,0,35,0.3,0,6,2,2,0
+Strawberries & Creme Frappuccino Blended Beverage with Coconut Milk and Whip,Strawberries & Creme Frappuccino Blended Beverage,Coconut,Whip,250,10,7,0.2,30,150,39,0,38,1,10,6,2,2,0
+Vanilla Bean Creme Frappuccino Blended Creme with Nonfat Milk,Vanilla Bean Creme Frappuccino Blended Creme,Nonfat,No Whip,170,0.1,0.1,0,0,160,39,0,38,4,6,0,10,0,0
+Vanilla Bean Creme Frappuccino Blended Creme with Nonfat Milk and Whip,Vanilla Bean Creme Frappuccino Blended Creme,Nonfat,Whip,250,8,5,0.2,30,170,41,0,40,4,15,0,15,0,0
+Vanilla Bean Creme Frappuccino Blended Creme with 2% Milk,Vanilla Bean Creme Frappuccino Blended Creme,2% Milk,No Whip,190,2,1,0.1,10,170,39,0,38,4,6,0,10,0,0
+Vanilla Bean Creme Frappuccino Blended Creme with 2% Milk  and Whip,Vanilla Bean Creme Frappuccino Blended Creme,2% Milk,Whip,270,10,6,0.3,40,170,41,0,39,4,15,0,15,0,0
+Vanilla Bean Creme Frappuccino Blended Creme with Whole Milk,Vanilla Bean Creme Frappuccino Blended Creme,Whole,No Whip,200,3.5,2,0.1,10,160,39,0,38,3,6,0,10,0,0
+Vanilla Bean Creme Frappuccino Blended Creme with Whole Milk and Whip,Vanilla Bean Creme Frappuccino Blended Creme,Whole,Whip,280,11,7,0.3,40,170,41,0,39,4,15,0,10,0,0
+Vanilla Bean Creme Frappuccino Blended Creme with Soy Milk,Vanilla Bean Creme Frappuccino Blended Creme,Soy,No Whip,180,1.5,0.2,0,0,160,37,1,35,3,4,0,10,6,0
+Vanilla Bean Creme Frappuccino Blended Creme with Soy Milk and Whip,Vanilla Bean Creme Frappuccino Blended Creme,Soy,Whip,260,10,5,0.2,30,160,39,1,37,3,15,0,15,6,0
+Vanilla Bean Creme Frappuccino Blended Creme with Coconut Milk,Vanilla Bean Creme Frappuccino Blended Creme,Coconut,No Whip,170,2.5,2,0,0,160,37,0,36,0.2,0,0,0,0,0
+Vanilla Bean Creme Frappuccino Blended Creme with Coconut Milk and Whip,Vanilla Bean Creme Frappuccino Blended Creme,Coconut,Whip,250,10,7,0.2,30,160,39,0,38,1,10,0,2,0,0
+Caramel Apple Spice,Caramel Apple Spice,,No Whip,210,0,0,0,0,15,53,0,49,0,0,0,0,0,0
+Caramel Apple Spice and Whip,Caramel Apple Spice,,Whip,300,7,4.5,0.2,25,30,59,0,55,0.4,8,0,2,0,0
+Hot Chocolate with Nonfat Milk,Hot Chocolate,Nonfat,No Whip,210,2,1,0,5,110,37,3,32,11,15,0,30,25,20
+Hot Chocolate with Nonfat Milk and Whip,Hot Chocolate,Nonfat,Whip,280,8,5,0.2,30,115,40,3,34,11,25,0,30,25,20
+Hot Chocolate with 2% Milk,Hot Chocolate,2% Milk,No Whip,250,7,4.5,0.2,20,125,37,3,32,11,15,0,30,25,20
+Hot Chocolate with 2% Milk and Whip,Hot Chocolate,2% Milk,Whip,320,13,8,0.4,45,130,39,3,34,11,20,2,30,25,20
+Hot Chocolate with Whole Milk,Hot Chocolate,Whole,No Whip,280,10,6,0.3,25,110,37,3,32,10,10,0,30,25,20
+Hot Chocolate with Whole Milk and Whip,Hot Chocolate,Whole,Whip,350,16,10,0.4,50,120,39,3,34,11,20,0,30,25,20
+Hot Chocolate with Soy Milk,Hot Chocolate,Soy,No Whip,220,6,1.5,0,0,95,32,4,25,9,10,0,30,40,20
+Hot Chocolate with Soy Milk and Whip,Hot Chocolate,Soy,Whip,290,12,5,0.2,25,100,35,4,28,9,15,0,30,40,20
+Hot Chocolate with Coconut Milk,Hot Chocolate,Coconut,No Whip,210,8,7,0,0,110,33,3,28,3,0,0,2,25,20
+Hot Chocolate with Coconut Milk and Whip,Hot Chocolate,Coconut,Whip,280,14,10,0.2,25,115,36,3,31,3,6,0,2,25,20
+Lemonade,Lemonade,,,80,0,0,0,0,0,21,0,21,0.1,0,25,0,0,0
+Milk with Nonfat Milk,Milk,Nonfat,,140,0.3,0.2,0,10,170,20,0,20,14,25,0,45,0,0
+Milk with 2% Milk,Milk,2% Milk,,200,8,4,0.2,30,190,19,0,19,13,20,2,45,0,0
+Milk with Whole Milk,Milk,Whole,,240,13,7,0.4,40,170,19,0,19,13,20,0,40,0,0
+Milk with Soy Milk,Milk,Soy,,160,6,1,0,0,150,13,2,10,11,15,0,45,20,0
+Milk with Coconut Milk,Milk,Coconut,,130,9,8,0,0,160,13,0,13,1,0,0,0,0,0
+Skinny Hot Chocolate with Nonfat Milk,Skinny Hot Chocolate,Nonfat,,130,1.5,1,0.1,5,125,18,3,13,11,15,0,30,45,0
+Steamed Apple Juice,Steamed Apple Juice,,,170,0,0,0,0,15,44,0,39,0,0,0,0,0,0
+Steamed Milk with Nonfat Milk,Steamed Milk,Nonfat,,110,0.2,0.2,0,5,130,15,0,15,10,20,0,35,0,0
+Steamed Milk with 2% Milk,Steamed Milk,2% Milk,,160,6,3,0.2,25,150,15,0,15,10,15,2,35,0,0
+Steamed Milk with Whole Milk,Steamed Milk,Whole,,190,10,6,0.3,30,135,15,0,15,10,15,0,30,0,0
+Steamed Milk with Soy Milk,Steamed Milk,Soy,,120,4.5,0.5,0,0,110,9,1,7,8,10,0,35,15,0
+Steamed Milk with Coconut Milk,Steamed Milk,Coconut,,110,7,7,0,0,130,11,0,11,1,0,0,0,0,0
+Vanilla Steamer with Nonfat Milk,Vanilla Steamer,Nonfat,,160,0.2,0.2,0,5,120,29,0,29,10,20,0,30,0,0
+Vanilla Steamer with 2% Milk,Vanilla Steamer,2% Milk,,200,6,3,0.2,25,135,28,0,28,10,15,0,30,0,0
+Vanilla Steamer with Whole Milk,Vanilla Steamer,Whole,,230,9,5,0.3,30,125,28,0,28,9,15,0,30,0,0
+Vanilla Steamer with Soy Milk,Vanilla Steamer,Soy,,170,4.5,0.5,0,0,105,23,1,21,8,10,0,30,15,0
+Vanilla Steamer with Coconut Milk,Vanilla Steamer,Coconut,,160,7,6,0,0,125,25,0,24,1,0,0,0,0,0
+White Hot Chocolate with Nonfat Milk,White Hot Chocolate,Nonfat,No Whip,270,4.5,3.5,0,10,190,46,0,46,12,15,2,40,0,0
+White Hot Chocolate with Nonfat Milk and Whip,White Hot Chocolate,Nonfat,Whip,330,11,7,0.2,30,200,48,0,47,12,25,2,40,0,0
+White Hot Chocolate with 2% Milk,White Hot Chocolate,2% Milk,No Whip,310,9,6,0.2,25,200,46,0,46,12,15,2,40,0,0
+White Hot Chocolate with 2% Milk and Whip,White Hot Chocolate,2% Milk,Whip,370,16,10,0.3,45,210,48,0,47,12,20,2,40,0,0
+White Hot Chocolate with Whole Milk,White Hot Chocolate,Whole,No Whip,340,13,8,0.3,30,190,46,0,46,11,10,2,35,0,0
+White Hot Chocolate with Whole Milk and Whip,White Hot Chocolate,Whole,Whip,400,19,12,0.4,55,200,48,0,47,11,20,2,35,0,0
+White Hot Chocolate with Soy Milk,White Hot Chocolate,Soy,No Whip,280,8,4,0,5,180,41,1,39,10,10,2,40,15,0
+White Hot Chocolate with Soy Milk and Whip,White Hot Chocolate,Soy,Whip,340,14,8,0.2,25,180,43,1,40,10,15,2,40,15,0
+White Hot Chocolate with Coconut Milk,White Hot Chocolate,Coconut,No Whip,270,10,9,0,5,190,42,0,42,3,0,2,10,0,0
+White Hot Chocolate with Coconut Milk and Whip,White Hot Chocolate,Coconut,Whip,330,16,13,0.2,25,190,44,0,43,4,6,2,10,0,0
+Sweetened Whipped Cream,Sweetened Whipped Cream,,,60,6,4,0.2,20,5,2,0,1,0.3,6,0,0,0,0
+Sweetened Whipped Cream,Sweetened Whipped Cream,,,80,8,5,0.2,30,10,2,0,2,0.4,10,0,2,0,0
+Flavoured Syrup,Flavoured Syrup,,,20,0,0,0,0,0,5,0,5,0,0,0,0,0,0
+Flavoured Sugar-Free Syrup,Flavoured Sugar-Free Syrup,,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+Mocha Syrup,Mocha Syrup,,,35,0.5,0,0,0,0,7,1,5,1,0,0,0,6,5
+Mocha Drizzle,Mocha Drizzle,,,10,0.5,0.1,0,0,0,1,0,1,0.2,0,0,0,2,0
+Caramel Drizzle,Caramel Drizzle,,,15,0,0.3,0,0,4,2,0,2,0,0,0,0,0,0
+Espresso Shot,Espresso Shot,,,5,0.1,0,0,0,0,1,0,0,0.4,0,0,0,0,75
+Matcha Green Tea Powder,Matcha Green Tea Powder,,,25,0.1,0,0,0,0,6,0,5,0.3,0,4,0,2,25
+Protein & Fibre Powder,Protein & Fibre Powder,,,30,0.1,0.1,0,0,45,1,1,0,6,0,0,0,2,0
