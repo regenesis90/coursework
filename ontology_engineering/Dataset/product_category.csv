@@ -1,92 +1,90 @@
-Temperature,Category,ID,Product_Name
-Hot,Coffee,Brewed_Coffee_Dark_Roast,Brewed Coffee - Dark Roast
-Hot,Coffee,Brewed_Coffee_Decaf_Pike_Place_Roast,Brewed Coffee - Decaf Pike Place Roast
-Hot,Coffee,Brewed_Coffee_Medium_Roast,Brewed Coffee - Medium Roast
-Hot,Coffee,Brewed_Coffee_True_North_Blend_Blonde_Roast,Brewed Coffee - True North Blend Blonde Roast
-Hot,Coffee,Caffe_Misto,Caffe Misto
-Hot,Coffee,Clover_Brewed_Coffee_Dark_Roast,Clover Brewed Coffee - Dark Roast
-Hot,Coffee,Clover_Brewed_Coffee_Light_Roast,Clover Brewed Coffee - Light Roast
-Hot,Coffee,Clover_Brewed_Coffee_Medium_Roast,Clover Brewed Coffee - Medium Roast
-Ice,Coffee,Iced_Coffee,Iced Coffee
-Ice,Coffee,Iced_Coffee_with_Milk,Iced Coffee with Milk
-Ice,Coffee,Cold_Brewed_Coffee,Cold Brewed Coffee
-Ice,Coffee,Vanilla_Sweet_Cream_Cold_Brew,Vanilla Sweet Cream Cold Brew
-Hot,Espresso,Caffe_Americano,Caffe Americano
-Ice,Espresso,Iced_Caffe_Americano,Iced Caffe Americano
-Hot,Espresso,Caffe_Latte,Caffe Latte
-Ice,Espresso,Iced_Caffe_Latte,Iced Caffe Latte
-Hot,Espresso,Caffe_Mocha,Caffe Mocha
-Ice,Espresso,Iced_Caffe_Mocha,Iced Caffe Mocha
-Hot,Espresso,Cappuccino,Cappuccino
-Hot,Espresso,Caramel_Macchiato,Caramel Macchiato
-Ice,Espresso,Iced_Caramel_Macchiato,Iced Caramel Macchiato
-Hot,Espresso,Cinnamon_Dolce_Latte,Cinnamon Dolce Latte
-Hot,Espresso,Flat_White,Flat White
-Hot,Espresso,Latte_Macchiato,Latte Macchiato
-Hot,Espresso,Skinny_Cinnamon_Dolce_Latte,Skinny Cinnamon Dolce Latte
-Ice,Espresso,Iced_Skinny_Cinnamon_Dolce_Latte,Iced Skinny Cinnamon Dolce Latte
-Hot,Espresso,Skinny_Mocha,Skinny Mocha
-Ice,Espresso,Iced_Skinny_Mocha,Iced Skinny Mocha
-Ice,Espresso,Starbucks_Doubleshot_on_Ice,Starbucks Doubleshot on Ice
-Hot,Espresso,White_Chocolate_Mocha,White Chocolate Mocha
-Ice,Espresso,Iced_White_Chocolate_Mocha,Iced White Chocolate Mocha
-Ice,Tea,Iced_Black_Tea,Iced Black Tea
-Ice,Tea,Iced_Black_Tea_Lemonade,Iced Black Tea Lemonade
-Hot,Tea,Chai_Tea_Latte,Chai Tea Latte
-Ice,Tea,Iced_Chai_Tea_Latte,Iced Chai Tea Latte
-Hot,Tea,Earl_Grey_Brewed_Tea,Earl Grey Brewed Tea
-Hot,Tea,Emperors_Clouds_and_Mist_Brewed_Tea,Emperor's Clouds and Mist Brewed Tea
-Hot,Tea,English_Breakfast_Black_Brewed_Tea,English Breakfast Black Brewed Tea
-Hot,Tea,English_Breakfast_Black_Tea_Latte,English Breakfast Black Tea Latte
-Hot,Tea,Green_Tea_Latte,Green Tea Latte
-Ice,Tea,Iced_Green_Tea_Latte,Iced Green Tea Latte
-Ice,Tea,Iced_Green_Tea,Iced Green Tea
-Ice,Tea,Iced_Green_Tea_Lemonade,Iced Green Tea Lemonade
-Hot,Tea,Jade_Citrus_Mint_Brewed_Tea,Jade Citrus Mint Brewed Tea
-Hot,Tea,London_Fog_Tea_Latte,London Fog Tea Latte
-Ice,Tea,Iced_Mango_Black_Tea,Iced Mango Black Tea
-Ice,Tea,Iced_Mango_Black_Tea_Lemonade,Iced Mango Black Tea Lemonade
-Hot,Tea,Mint_Majesty_Brewed_Tea,Mint Majesty Brewed Tea
-Hot,Tea,Oprah_Chai_Herbal_Brewed_Tea,Oprah Chai Herbal Brewed Tea
-Hot,Tea,Oprah_Cinnamon_Chai_Brewed_Tea,Oprah Cinnamon Chai Brewed Tea
-Hot,Tea,Oprah_Cinnamon_Chai_Latte,Oprah Cinnamon Chai Latte
-Ice,Tea,Iced_Oprah_Cinnamon_Chai_Latte,Iced Oprah Cinnamon Chai Latte
-Hot,Tea,Passion_Tango_Brewed_Tea,Passion Tango Brewed Tea
-Ice,Tea,Iced_Passion_Tango_tea,Iced Passion Tango tea
-Ice,Tea,Iced_Passion_Tango_Tea_Lemonade,Iced Passion Tango Tea Lemonade
-Ice,Tea,Peach_Iced_Green_Tea,Peach Iced Green Tea
-Ice,Tea,Peach_Iced_Green_Tea_Lemonade,Peach Iced Green Tea Lemonade
-Hot,Tea,Peach_Tranquility_Brewed_Tea,Peach Tranquility Brewed Tea
-Hot,Tea,Youthberry_Brewed_Tea,Youthberry Brewed Tea
-Ice,Starbucks Refreshers,Cool_Lime_Starbucks_Refreshers??Beverage,Cool Lime Starbucks Refreshers??Beverage
-Ice,Starbucks Refreshers,Very_Berry_Hibiscus_Starbucks_Refreshers??Beverage,Very Berry Hibiscus Starbucks Refreshers??Beverage
-Ice,Frappuccino Blended Coffee,Caffe_Vanilla_Frappuccino_Blended_Beverage,Caffe Vanilla Frappuccino Blended Beverage
-Ice,Frappuccino Blended Coffee,Caramel_Frappuccino_Blended_Beverage,Caramel Frappuccino Blended Beverage
-Ice,Frappuccino Blended Coffee,Coffee_Frappuccino_Blended_Beverage,Coffee Frappuccino Blended Beverage
-Ice,Frappuccino Blended Coffee,Espresso_Frappuccino_Blended_Beverage,Espresso Frappuccino Blended Beverage
-Ice,Frappuccino Blended Coffee,Java_Chip_Frappuccino_Blended_Beverage,Java Chip Frappuccino Blended Beverage
-Ice,Frappuccino Blended Coffee,Mocha_Frappuccino_Blended_Beverage,Mocha Frappuccino Blended Beverage
-Ice,Frappuccino Light Blended Coffee,Caffe_Vanilla_Frappuccino_Light_Blended_Beverage,Caffe Vanilla Frappuccino Light Blended Beverage
-Ice,Frappuccino Light Blended Coffee,Caramel_Frappuccino_Light_Blended_Beverage,Caramel Frappuccino Light Blended Beverage
-Ice,Frappuccino Light Blended Coffee,Coffee_Frappuccino_Light_Blended_Beverage,Coffee Frappuccino Light Blended Beverage
-Ice,Frappuccino Light Blended Coffee,Espresso_Frappuccino_Light_Blended_Beverage,Espresso Frappuccino Light Blended Beverage
-Ice,Frappuccino Light Blended Coffee,Java_Chip_Light_Frappuccino_Blended_Beverage,Java Chip Light Frappuccino Blended Beverage
-Ice,Frappuccino Light Blended Coffee,Mocha_Light_Frappuccino_Blended_Beverage,Mocha Light Frappuccino Blended Beverage
-Ice,Frappucino Blended Creme,Blended_Strawberry_Lemonade,Blended Strawberry Lemonade
-Ice,Frappucino Blended Creme,Chai_Creme_Frappuccino_Blended_Beverage,Chai Creme Frappuccino Blended Beverage
-Ice,Frappucino Blended Creme,Double_Chocolaty_Chip_Creme_Frappuccino_Blended_Beverage,Double Chocolaty Chip Creme Frappuccino Blended Beverage
-Ice,Frappucino Blended Creme,Green_Tea_Creme_Frappuccino_Blended_Beverage,Green Tea Creme Frappuccino Blended Beverage
-Ice,Frappucino Blended Creme,Oprah_Cinnamon_Chai_Creme_Frappuccino_Blended_Beverage,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage
-Ice,Frappucino Blended Creme,Strawberries_and_Creme_Frappuccino_Blended_Beverage,Strawberries & Creme Frappuccino Blended Beverage
-Ice,Frappucino Blended Creme,Vanilla_Bean_Creme_Frappuccino_Blended_Creme,Vanilla Bean Creme Frappuccino Blended Creme
-Hot,Hot Chocolate & Other,Caramel_Apple_Spice,Caramel Apple Spice
-Hot,Hot Chocolate & Other,Hot_Chocolate,Hot Chocolate
-Ice,Hot Chocolate & Other,Lemonade,Lemonade
-Hot,Hot Chocolate & Other,Milk,Milk
-Hot,Hot Chocolate & Other,Skinny_Hot_Chocolate,Skinny Hot Chocolate
-Hot,Hot Chocolate & Other,Steamed_Apple_Juice,Steamed Apple Juice
-Hot,Hot Chocolate & Other,Steamed_Milk,Steamed Milk
-Hot,Hot Chocolate & Other,Vanilla_Steamer,Vanilla Steamer
-Hot,Hot Chocolate & Other,White_Hot_Chocolate,White Hot Chocolate
-Hot,Add-Ons,Sweetened_Whipped_Cream,Sweetened Whipped Cream
-Cold,Add-Ons,Sweetened_Whipped_Cream,Sweetened Whipped Cream
+Category_ID,Category_Name,Temperature,Product_ID,Product_Name
+Coffee,Coffee,Hot,Brewed_Coffee_Dark_Roast,Brewed Coffee - Dark Roast
+Coffee,Coffee,Hot,Brewed_Coffee_Decaf_Pike_Place_Roast,Brewed Coffee - Decaf Pike Place Roast
+Coffee,Coffee,Hot,Brewed_Coffee_Medium_Roast,Brewed Coffee - Medium Roast
+Coffee,Coffee,Hot,Brewed_Coffee_True_North_Blend_Blonde_Roast,Brewed Coffee - True North Blend Blonde Roast
+Coffee,Coffee,Hot,Caffe_Misto,Caffe Misto
+Coffee,Coffee,Hot,Clover_Brewed_Coffee_Dark_Roast,Clover Brewed Coffee - Dark Roast
+Coffee,Coffee,Hot,Clover_Brewed_Coffee_Light_Roast,Clover Brewed Coffee - Light Roast
+Coffee,Coffee,Hot,Clover_Brewed_Coffee_Medium_Roast,Clover Brewed Coffee - Medium Roast
+Coffee,Coffee,Ice,Iced_Coffee,Iced Coffee
+Coffee,Coffee,Ice,Iced_Coffee_with_Milk,Iced Coffee with Milk
+Coffee,Coffee,Ice,Cold_Brewed_Coffee,Cold Brewed Coffee
+Coffee,Coffee,Ice,Vanilla_Sweet_Cream_Cold_Brew,Vanilla Sweet Cream Cold Brew
+Espresso,Espresso,Hot,Caffe_Americano,Caffe Americano
+Espresso,Espresso,Ice,Iced_Caffe_Americano,Iced Caffe Americano
+Espresso,Espresso,Hot,Caffe_Latte,Caffe Latte
+Espresso,Espresso,Ice,Iced_Caffe_Latte,Iced Caffe Latte
+Espresso,Espresso,Hot,Caffe_Mocha,Caffe Mocha
+Espresso,Espresso,Ice,Iced_Caffe_Mocha,Iced Caffe Mocha
+Espresso,Espresso,Hot,Cappuccino,Cappuccino
+Espresso,Espresso,Hot,Caramel_Macchiato,Caramel Macchiato
+Espresso,Espresso,Ice,Iced_Caramel_Macchiato,Iced Caramel Macchiato
+Espresso,Espresso,Hot,Cinnamon_Dolce_Latte,Cinnamon Dolce Latte
+Espresso,Espresso,Hot,Flat_White,Flat White
+Espresso,Espresso,Hot,Latte_Macchiato,Latte Macchiato
+Espresso,Espresso,Hot,Skinny_Cinnamon_Dolce_Latte,Skinny Cinnamon Dolce Latte
+Espresso,Espresso,Ice,Iced_Skinny_Cinnamon_Dolce_Latte,Iced Skinny Cinnamon Dolce Latte
+Espresso,Espresso,Hot,Skinny_Mocha,Skinny Mocha
+Espresso,Espresso,Ice,Iced_Skinny_Mocha,Iced Skinny Mocha
+Espresso,Espresso,Ice,Starbucks_Doubleshot_on_Ice,Starbucks Doubleshot on Ice
+Espresso,Espresso,Hot,White_Chocolate_Mocha,White Chocolate Mocha
+Espresso,Espresso,Ice,Iced_White_Chocolate_Mocha,Iced White Chocolate Mocha
+Tea,Tea,Ice,Iced_Black_Tea,Iced Black Tea
+Tea,Tea,Ice,Iced_Black_Tea_Lemonade,Iced Black Tea Lemonade
+Tea,Tea,Hot,Chai_Tea_Latte,Chai Tea Latte
+Tea,Tea,Ice,Iced_Chai_Tea_Latte,Iced Chai Tea Latte
+Tea,Tea,Hot,Earl_Grey_Brewed_Tea,Earl Grey Brewed Tea
+Tea,Tea,Hot,Emperors_Clouds_and_Mist_Brewed_Tea,Emperor's Clouds and Mist Brewed Tea
+Tea,Tea,Hot,English_Breakfast_Black_Brewed_Tea,English Breakfast Black Brewed Tea
+Tea,Tea,Hot,English_Breakfast_Black_Tea_Latte,English Breakfast Black Tea Latte
+Tea,Tea,Hot,Green_Tea_Latte,Green Tea Latte
+Tea,Tea,Ice,Iced_Green_Tea_Latte,Iced Green Tea Latte
+Tea,Tea,Ice,Iced_Green_Tea,Iced Green Tea
+Tea,Tea,Ice,Iced_Green_Tea_Lemonade,Iced Green Tea Lemonade
+Tea,Tea,Hot,Jade_Citrus_Mint_Brewed_Tea,Jade Citrus Mint Brewed Tea
+Tea,Tea,Hot,London_Fog_Tea_Latte,London Fog Tea Latte
+Tea,Tea,Ice,Iced_Mango_Black_Tea,Iced Mango Black Tea
+Tea,Tea,Ice,Iced_Mango_Black_Tea_Lemonade,Iced Mango Black Tea Lemonade
+Tea,Tea,Hot,Mint_Majesty_Brewed_Tea,Mint Majesty Brewed Tea
+Tea,Tea,Hot,Oprah_Chai_Herbal_Brewed_Tea,Oprah Chai Herbal Brewed Tea
+Tea,Tea,Hot,Oprah_Cinnamon_Chai_Brewed_Tea,Oprah Cinnamon Chai Brewed Tea
+Tea,Tea,Hot,Oprah_Cinnamon_Chai_Latte,Oprah Cinnamon Chai Latte
+Tea,Tea,Ice,Iced_Oprah_Cinnamon_Chai_Latte,Iced Oprah Cinnamon Chai Latte
+Tea,Tea,Hot,Passion_Tango_Brewed_Tea,Passion Tango Brewed Tea
+Tea,Tea,Ice,Iced_Passion_Tango_tea,Iced Passion Tango tea
+Tea,Tea,Ice,Iced_Passion_Tango_Tea_Lemonade,Iced Passion Tango Tea Lemonade
+Tea,Tea,Ice,Peach_Iced_Green_Tea,Peach Iced Green Tea
+Tea,Tea,Ice,Peach_Iced_Green_Tea_Lemonade,Peach Iced Green Tea Lemonade
+Tea,Tea,Hot,Peach_Tranquility_Brewed_Tea,Peach Tranquility Brewed Tea
+Tea,Tea,Hot,Youthberry_Brewed_Tea,Youthberry Brewed Tea
+Starbucks_Refreshers,Starbucks Refreshers,Ice,Cool_Lime_Starbucks_Refreshers??Beverage,Cool Lime Starbucks Refreshers??Beverage
+Starbucks_Refreshers,Starbucks Refreshers,Ice,Very_Berry_Hibiscus_Starbucks_Refreshers??Beverage,Very Berry Hibiscus Starbucks Refreshers??Beverage
+Frappuccino_Blended_Coffee,Frappuccino Blended Coffee,Ice,Caffe_Vanilla_Frappuccino_Blended_Beverage,Caffe Vanilla Frappuccino Blended Beverage
+Frappuccino_Blended_Coffee,Frappuccino Blended Coffee,Ice,Caramel_Frappuccino_Blended_Beverage,Caramel Frappuccino Blended Beverage
+Frappuccino_Blended_Coffee,Frappuccino Blended Coffee,Ice,Coffee_Frappuccino_Blended_Beverage,Coffee Frappuccino Blended Beverage
+Frappuccino_Blended_Coffee,Frappuccino Blended Coffee,Ice,Espresso_Frappuccino_Blended_Beverage,Espresso Frappuccino Blended Beverage
+Frappuccino_Blended_Coffee,Frappuccino Blended Coffee,Ice,Java_Chip_Frappuccino_Blended_Beverage,Java Chip Frappuccino Blended Beverage
+Frappuccino_Blended_Coffee,Frappuccino Blended Coffee,Ice,Mocha_Frappuccino_Blended_Beverage,Mocha Frappuccino Blended Beverage
+Frappuccino_Light_Blended_Coffee,Frappuccino Light Blended Coffee,Ice,Caffe_Vanilla_Frappuccino_Light_Blended_Beverage,Caffe Vanilla Frappuccino Light Blended Beverage
+Frappuccino_Light_Blended_Coffee,Frappuccino Light Blended Coffee,Ice,Caramel_Frappuccino_Light_Blended_Beverage,Caramel Frappuccino Light Blended Beverage
+Frappuccino_Light_Blended_Coffee,Frappuccino Light Blended Coffee,Ice,Coffee_Frappuccino_Light_Blended_Beverage,Coffee Frappuccino Light Blended Beverage
+Frappuccino_Light_Blended_Coffee,Frappuccino Light Blended Coffee,Ice,Espresso_Frappuccino_Light_Blended_Beverage,Espresso Frappuccino Light Blended Beverage
+Frappuccino_Light_Blended_Coffee,Frappuccino Light Blended Coffee,Ice,Java_Chip_Light_Frappuccino_Blended_Beverage,Java Chip Light Frappuccino Blended Beverage
+Frappuccino_Light_Blended_Coffee,Frappuccino Light Blended Coffee,Ice,Mocha_Light_Frappuccino_Blended_Beverage,Mocha Light Frappuccino Blended Beverage
+Frappucino_Blended_Creme,Frappucino Blended Creme,Ice,Blended_Strawberry_Lemonade,Blended Strawberry Lemonade
+Frappucino_Blended_Creme,Frappucino Blended Creme,Ice,Chai_Creme_Frappuccino_Blended_Beverage,Chai Creme Frappuccino Blended Beverage
+Frappucino_Blended_Creme,Frappucino Blended Creme,Ice,Double_Chocolaty_Chip_Creme_Frappuccino_Blended_Beverage,Double Chocolaty Chip Creme Frappuccino Blended Beverage
+Frappucino_Blended_Creme,Frappucino Blended Creme,Ice,Green_Tea_Creme_Frappuccino_Blended_Beverage,Green Tea Creme Frappuccino Blended Beverage
+Frappucino_Blended_Creme,Frappucino Blended Creme,Ice,Oprah_Cinnamon_Chai_Creme_Frappuccino_Blended_Beverage,Oprah Cinnamon Chai Creme Frappuccino Blended Beverage
+Frappucino_Blended_Creme,Frappucino Blended Creme,Ice,Strawberries_and_Creme_Frappuccino_Blended_Beverage,Strawberries & Creme Frappuccino Blended Beverage
+Frappucino_Blended_Creme,Frappucino Blended Creme,Ice,Vanilla_Bean_Creme_Frappuccino_Blended_Creme,Vanilla Bean Creme Frappuccino Blended Creme
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,Caramel_Apple_Spice,Caramel Apple Spice
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,Hot_Chocolate,Hot Chocolate
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Ice,Lemonade,Lemonade
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,Milk,Milk
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,Skinny_Hot_Chocolate,Skinny Hot Chocolate
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,Steamed_Apple_Juice,Steamed Apple Juice
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,Steamed_Milk,Steamed Milk
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,Vanilla_Steamer,Vanilla Steamer
+Hot_Chocolate_and_Other,Hot Chocolate & Other,Hot,White_Hot_Chocolate,White Hot Chocolate
