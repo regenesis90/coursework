@@ -334,13 +334,3 @@ White_Hot_Chocolate_with_Soy_Milk,White Hot Chocolate with Soy Milk,White Hot Ch
 White_Hot_Chocolate_with_Soy_Milk_and_Whip,White Hot Chocolate with Soy Milk and Whip,White Hot Chocolate,Soy,Whip,340,14,8,0.2,25,180,43,1,40,10,15,2,40,15,0
 White_Hot_Chocolate_with_Coconut_Milk,White Hot Chocolate with Coconut Milk,White Hot Chocolate,Coconut,No Whip,270,10,9,0,5,190,42,0,42,3,0,2,10,0,0
 White_Hot_Chocolate_with_Coconut_Milk_and_Whip,White Hot Chocolate with Coconut Milk and Whip,White Hot Chocolate,Coconut,Whip,330,16,13,0.2,25,190,44,0,43,4,6,2,10,0,0
-Sweetened_Whipped_Cream,Sweetened Whipped Cream,Sweetened Whipped Cream,,,60,6,4,0.2,20,5,2,0,1,0.3,6,0,0,0,0
-Sweetened_Whipped_Cream,Sweetened Whipped Cream,Sweetened Whipped Cream,,,80,8,5,0.2,30,10,2,0,2,0.4,10,0,2,0,0
-Flavoured_Syrup,Flavoured Syrup,Flavoured Syrup,,,20,0,0,0,0,0,5,0,5,0,0,0,0,0,0
-Flavoured_Sugar-Free_Syrup,Flavoured Sugar-Free Syrup,Flavoured Sugar-Free Syrup,,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
-Mocha_Syrup,Mocha Syrup,Mocha Syrup,,,35,0.5,0,0,0,0,7,1,5,1,0,0,0,6,5
-Mocha_Drizzle,Mocha Drizzle,Mocha Drizzle,,,10,0.5,0.1,0,0,0,1,0,1,0.2,0,0,0,2,0
-Caramel_Drizzle,Caramel Drizzle,Caramel Drizzle,,,15,0,0.3,0,0,4,2,0,2,0,0,0,0,0,0
-Espresso_Shot,Espresso Shot,Espresso Shot,,,5,0.1,0,0,0,0,1,0,0,0.4,0,0,0,0,75
-Matcha_Green_Tea_Powder,Matcha Green Tea Powder,Matcha Green Tea Powder,,,25,0.1,0,0,0,0,6,0,5,0.3,0,4,0,2,25
-Protein_&_Fibre_Powder,Protein & Fibre Powder,Protein & Fibre Powder,,,30,0.1,0.1,0,0,45,1,1,0,6,0,0,0,2,0

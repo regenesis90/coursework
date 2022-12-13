@@ -1,0 +1,11 @@
+ID,AddOns,Calories,Total_Fat,Saturated_Fat,Trans_Fat,Cholesterol,Sodium,Total_Carbohydrates,Dietary_Fiber,Sugar,Protein,Vitamin_A,Vitamin_C,Calcium,Iron,Caffeine
+Sweetened_Whipped_Cream,Sweetened Whipped Cream,60,6,4,0.2,20,5,2,0,1,0.3,6,0,0,0,0
+Sweetened_Whipped_Cream,Sweetened Whipped Cream,80,8,5,0.2,30,10,2,0,2,0.4,10,0,2,0,0
+Flavoured_Syrup,Flavoured Syrup,20,0,0,0,0,0,5,0,5,0,0,0,0,0,0
+Flavoured_Sugar-Free_Syrup,Flavoured Sugar-Free Syrup,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+Mocha_Syrup,Mocha Syrup,35,0.5,0,0,0,0,7,1,5,1,0,0,0,6,5
+Mocha_Drizzle,Mocha Drizzle,10,0.5,0.1,0,0,0,1,0,1,0.2,0,0,0,2,0
+Caramel_Drizzle,Caramel Drizzle,15,0,0.3,0,0,4,2,0,2,0,0,0,0,0,0
+Espresso_Shot,Espresso Shot,5,0.1,0,0,0,0,1,0,0,0.4,0,0,0,0,75
+Matcha_Green_Tea_Powder,Matcha Green Tea Powder,25,0.1,0,0,0,0,6,0,5,0.3,0,4,0,2,25
+Protein_&_Fibre_Powder,Protein & Fibre Powder,30,0.1,0.1,0,0,45,1,1,0,6,0,0,0,2,0
