@@ -8355,9 +8355,9 @@
   <has_Caffeine rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25.0</has_Caffeine>
 </AddOns>
 
-<AddOns rdf:about="#Protein_&amp;_Fibre_Powder">
+<AddOns rdf:about="#Protein_and_Fibre_Powder">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_AddOns_name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Protein &amp; Fibre Powder</has_AddOns_name>
+  <has_AddOns_name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Protein and Fibre Powder</has_AddOns_name>
   <has_Calories rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">30.0</has_Calories>
   <has_Total_Fat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.1</has_Total_Fat>
   <has_Saturated_Fat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.1</has_Saturated_Fat>
